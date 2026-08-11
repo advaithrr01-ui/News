@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'Static site — pages are pre-built and committed to public/'"
+  publish = "public"
