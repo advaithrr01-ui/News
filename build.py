@@ -99,6 +99,13 @@ a.src:hover{border-bottom-color:var(--accent)}
 footer{margin-top:40px;padding-top:16px;border-top:3px double var(--ink);
   font-family:ui-sans-serif,-apple-system,sans-serif;font-size:11.5px;color:var(--ink-soft)}
 
+aside.disclosure{display:block;margin-top:28px;padding:18px 20px;
+  background:var(--tag-bg);border-left:3px solid var(--accent);
+  font-family:ui-sans-serif,-apple-system,sans-serif;
+  font-size:12.5px;line-height:1.6;color:var(--ink-soft)}
+aside.disclosure strong{color:var(--ink)}
+aside.disclosure a{color:var(--accent)}
+
 /* archive */
 ul.archive{list-style:none;padding:0;margin:24px 0 0}
 ul.archive li{border-bottom:1px solid var(--rule);padding:16px 0;
@@ -163,6 +170,21 @@ def page(title, body, css_path="style.css", nav_home="index.html",
   </span>
 </nav>
 {body}
+<aside class="disclosure">
+  <strong>How this is made.</strong> The Daily Twenty is compiled automatically, once
+  each morning, by an AI system that searches published reporting and writes the
+  summaries you see here. No journalist reports these stories and no editor reviews
+  the page before it goes live.
+  <br><br>
+  That means errors are possible and will not be caught quickly — a misstated figure,
+  a garbled detail, a story missed entirely. Every item links to the outlet that
+  reported it. <strong>Follow the link before relying on anything here</strong>,
+  particularly for casualty figures, legal outcomes, market data, or anything
+  concerning a named individual.
+  <br><br>
+  Original reporting belongs to the publications credited. Spotted a mistake?
+  <a href="https://github.com/advaithrr01-ui/News/issues">Report it here</a>.
+</aside>
 </div>
 </body>
 </html>
