@@ -29,7 +29,7 @@ Numbering is automatic. Text is plain unicode; the builder escapes it.
 
 import html
 import json
-import shutil
+import shutil  # noqa: F401
 from datetime import date as _date
 from pathlib import Path
 
@@ -136,13 +136,21 @@ def short_date(iso):
 
 
 def page(title, body, css_path="style.css", nav_home="index.html",
-         nav_archive="archive.html"):
+         nav_archive="archive.html", description=SITE_TAGLINE):
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)}</title>
+<meta name="description" content="{e(description)}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{e(SITE_TITLE)}">
+<meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="{e(description)}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{e(title)}">
+<meta name="twitter:description" content="{e(description)}">
 <link rel="stylesheet" href="{css_path}">
 </head>
 <body>
@@ -201,8 +209,11 @@ def render_edition(ed, css_path="style.css", nav_home="index.html",
   science &amp; climate, and sport. Every item links to its source; follow the link
   before acting on anything time-sensitive.
 </footer>"""
+    leads = [c[0]["headline"] for c in (ed["world"], ed["india"]) if c]
+    desc = " · ".join(leads) if leads else SITE_TAGLINE
     return page(f"{SITE_TITLE} — {short_date(iso)}", body,
-                css_path=css_path, nav_home=nav_home, nav_archive=nav_archive)
+                css_path=css_path, nav_home=nav_home, nav_archive=nav_archive,
+                description=desc)
 
 
 def render_archive(editions):
@@ -257,9 +268,7 @@ def main():
     if not editions:
         raise SystemExit("No editions found in data/. Nothing to build.")
 
-    if PUBLIC.exists():
-        shutil.rmtree(PUBLIC)
-    (PUBLIC / "editions").mkdir(parents=True)
+    (PUBLIC / "editions").mkdir(parents=True, exist_ok=True)
 
     (PUBLIC / "style.css").write_text(STYLE.strip() + "\n", encoding="utf-8")
 
