@@ -228,7 +228,7 @@ def render_archive(editions):
   </li>"""
         )
     body = f"""<header class="masthead">
-  <div class="kicker">Every edition, oldest to newest</div>
+  <div class="kicker">Every edition, newest first</div>
   <h1 class="title"><a href="index.html">Archive</a></h1>
   <div class="dateline">
     <span>{len(editions)} edition{'s' if len(editions) != 1 else ''}</span>
