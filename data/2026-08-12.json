@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-12",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Colombia earthquake toll passes 250 as rescuers reach the epicentre",
+      "body": "The death toll from Monday's magnitude 7.4 quake has risen from 132 to more than 250, with 101 killed in Pereira and 95 in Cali. Rescuers worked through the night with cranes, excavators and bare hands in the coffee-growing heartland, and Colombia's Geological Service has recorded over 70 aftershocks. President Abelardo de la Espriella convened an emergency committee to lead the response personally.",
+      "source_name": "CBC News",
+      "source_url": "https://www.cbc.ca/news/world/colombia-earthquake-search-survivors-9.7302758"
+    },
+    {
+      "tag": "Science",
+      "headline": "Europe sees its first total solar eclipse since 1999 this evening",
+      "body": "The moon's shadow crosses Siberia, eastern Greenland and western Iceland before reaching northern Spain shortly before sunset, with totality over León at about 18:28 UTC and Valencia at 18:32. Maximum totality lasts 2 minutes 18 seconds. It is the first total eclipse visible from mainland Europe in 27 years and the first from the Iberian Peninsula in over a century.",
+      "source_name": "NASA Science",
+      "source_url": "https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Syrian court sentences Assad to death in absentia for war crimes",
+      "body": "The Fourth Criminal Court in Damascus convicted the ousted president and his brother of crimes against humanity over a 14-year conflict that killed roughly half a million people. Judge Fakhareddine al-Aryan said Assad \"used state agencies to commit war crimes,\" in a session aired live on state television. It is the first such verdict since the family's five decades in power ended 20 months ago; Assad remains in exile in Russia.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/11/middleeast/syria-assad-death-sentence-absentia-intl"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Nvidia lines up $500 billion from Wall Street to finance AI build-out",
+      "body": "Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR will create dedicated capital pools letting hyperscalers and AI labs buy Nvidia hardware without drawing on their own balance sheets. Jensen Huang said he approached only those six firms and none declined, describing his chips as an \"investable asset.\" The memorandum of understanding still requires definitive agreements.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "OpenAI ships a cyber-specialised model for security professionals",
+      "body": "GPT-5.6-Cyber is going out to authorised security practitioners alongside an expansion of the Daybreak initiative, which now runs two tiers: Daybreak Blue, a version of GPT-5.6 Sol with system-level cyber guardrails removed, and Daybreak Red, granting access to the purpose-trained model. It is among the more consequential tests yet of gating a dual-use capability behind vetting rather than refusal.",
+      "source_name": "Tech Startups",
+      "source_url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "EU forces Google to open Android's AI layer to rival assistants",
+      "body": "The Commission's Digital Markets Act decision requires Google to open 11 Android AI features to competing assistants including ChatGPT and Claude by July 2027, and to share anonymised search data with rival engines from January 2027. Non-compliance carries fines of up to 10% of global revenue — over $30 billion for Alphabet. It is the first forced opening of a mobile operating system's AI layer.",
+      "source_name": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com/eu-orders-google-to-open-android-search-to-rivals-under-digital-markets-act/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Typhoon Dolphin forces over a million evacuations in eastern China",
+      "body": "The storm made landfall near Yuhuan City in Zhejiang on Sunday with winds above 150 km/h, prompting more than 1,000 flight cancellations and the relocation of over 900,000 residents from Wenzhou alone. Parts of Zhejiang face 250-500 mm of rain, and forecasters expect Dolphin to slow over central and southwestern China, prolonging flood and landslide risk.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Markets hold near highs as July inflation data lands today",
+      "body": "July CPI is out at 8:30am ET, forecast at 0.1% month-on-month and 3.4% annually, with core seen at 2.5%. Equities sat flat to slightly higher ahead of it, but Brent crude extended its rally toward $90 and the 10-year Treasury yield topped 4.72% — both cutting against the dovish repricing that drove last week's rally.",
+      "source_name": "Charles Schwab",
+      "source_url": "https://www.schwab.com/learn/story/stock-market-update-open"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Trump sets compensation from Iran as a condition for talks",
+      "body": "The president said any negotiation would require Iran to pay compensation, hardening terms nearly six months into a conflict that has kept the Strait of Hormuz closed since March. Iranian foreign ministry spokesman Esmaeil Baqaei rejected the approach of \"suffocating\" Iran through sanctions, saying the latest measures make a diplomatic solution less likely.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+    },
+    {
+      "tag": "Politics",
+      "headline": "US judge widens block on Trump's mail-in voting restrictions",
+      "body": "A federal judge expanded an injunction against a central part of the order limiting mail-in voting for the autumn midterms, barring the Postal Service from carrying out its directives in every state. The ruling broadens what had been a narrower block, with implications for ballot handling in November.",
+      "source_name": "Democracy Now!",
+      "source_url": "https://www.democracynow.org/2026/8/11/headlines"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Climate",
+      "headline": "Assam flood death toll reaches 100 with 700,000 displaced",
+      "body": "Two more deaths overnight took the toll to 100 as the Brahmaputra and other rivers continued to overflow after weeks of heavy monsoon rain. The floods have displaced more than 700,000 people and pushed nearly 300,000 into government relief camps. Several rivers remain above danger levels, and families returning home are rebuilding on ground buried under two to three feet of silt.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes"
+    },
+    {
+      "tag": "Aviation",
+      "headline": "Air India captain tests positive for marijuana after mid-air plunge",
+      "body": "A confirmatory laboratory test on the pilot-in-command of flight AI2379 from Phuket to Delhi returned positive for marijuana. The aircraft lost roughly 300 feet of altitude during cruise on 4 August, injuring 20 passengers and four crew, with 17 hospitalised after landing. The DGCA had taken both pilots off the roster pending the result, and the aviation minister has summoned Air India chief Campbell Wilson.",
+      "source_name": "Outlook India",
+      "source_url": "https://www.outlookindia.com/national/air-india-pilot-tests-positive-for-drugs-after-phuket-delhi-flight-reports"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Closed Hormuz keeps squeezing energy imports as the rupee passes 92",
+      "body": "With the strait shut since 1 March, the currency has crossed 92 to the dollar. India imports about 90% of its crude and 91% of its LPG from the Gulf, and domestic LPG has risen ₹60 a cylinder. Qatar supplies half of India's LNG; with those cargoes halted, fertiliser plants and power generators are running on capped allocations at 70% of requirement.",
+      "source_name": "India Observers",
+      "source_url": "https://indiaobservers.com/iran-war-impact-india-oil-supply-2026/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex slides again as crude rally revives inflation worries",
+      "body": "The index fell about 0.5% to close near 78,187 on Tuesday, reversing the previous session's gains, with the move driven by rising oil prices and their read-through to inflation and corporate earnings. It leaves Indian equities diverging from the risk-on tone in US markets.",
+      "source_name": "Trading Economics",
+      "source_url": "https://tradingeconomics.com/india/stock-market"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Gill leads India's Test squad to Sri Lanka; Bumrah ruled out injured",
+      "body": "Shubman Gill continues as Test captain with KL Rahul in the leadership group and Ravindra Jadeja returning for the two-match series. Jasprit Bumrah was initially picked but has been ruled out through injury, and Washington Sundar misses the first Test, which starts in Galle on 15 August before Colombo. India carry a five-match winning streak in Sri Lanka; both sides need World Test Championship points.",
+      "source_name": "Olympics.com",
+      "source_url": "https://www.olympics.com/en/news/indian-cricket-team-2026-calendar-schedule-dates"
+    },
+    {
+      "tag": "Science",
+      "headline": "ISRO and MeitY develop four indigenous chips for launch vehicle avionics",
+      "body": "The space agency and the Semiconductor Laboratory have produced integrated circuits including data acquisition systems and voltage regulators, cutting dependence on imported electronics. Minister Ashwini Vaishnaw said in late July that home-grown chips will soon fly on Indian launch vehicles, following Skyroot's Vikram-1 becoming the first privately developed Indian rocket to reach orbit.",
+      "source_name": "New Kerala",
+      "source_url": "https://www.newkerala.com/news/o/india-boosts-space-self-reliance-new-indigenous-integrated-circuits-launch-445"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Tiranga rallies sweep states as Vande Mataram marks 150 years",
+      "body": "Ahead of Independence Day, chief ministers led Har Ghar Tiranga marches across the country — Rekha Gupta through the Delhi assembly complex, Pramod Sawant from Miramar Circle to Azad Maidan in Panaji. It follows the 'Mangal Milan' gathering at Parliament where the prime minister and NDA leaders marked 150 years of Vande Mataram.",
+      "source_name": "The India Moves",
+      "source_url": "https://theindiamoves.com/story/11-key-news-stories-from-india-for-august-12-2026"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Gujarat releases ₹3,850 crore to municipal corporations and councils",
+      "body": "Chief Minister Bhupendra Patel distributed the cheques from Gandhinagar for development works across the state's urban bodies, urging elected representatives and the administrative wing to accelerate delivery. It is one of the larger single disbursements to Gujarat's urban local governments this year.",
+      "source_name": "The India Moves",
+      "source_url": "https://theindiamoves.com/story/11-key-news-stories-from-india-for-august-12-2026"
+    },
+    {
+      "tag": "Agriculture",
+      "headline": "Himachal pledges to buy the entire apple crop from growers",
+      "body": "Chief Minister Sukhvinder Singh Sukhu said the state would purchase every sack orchardists bring forward — \"not 100, but 200, 300 or 400\" — and asked growers to upload the required documents to the market intervention scheme portal. The assurance comes as the harvest reaches its peak in the hill state.",
+      "source_name": "The India Moves",
+      "source_url": "https://theindiamoves.com/story/11-key-news-stories-from-india-for-august-12-2026"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Haryana chief minister hosts Army chief and Western Command head",
+      "body": "Nayab Saini received General Dhiraj Seth and Lieutenant General Pushpendra Pal Singh at Sant Kabir Kutir for discussions described as covering several significant subjects. Haryana hosts substantial Western Command infrastructure, making state-military coordination routine but notable during a period of heightened regional tension.",
+      "source_name": "The India Moves",
+      "source_url": "https://theindiamoves.com/story/11-key-news-stories-from-india-for-august-12-2026"
+    }
+  ]
+}
