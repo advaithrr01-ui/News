@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-13",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Colombia's earthquake toll is disputed as forensic count outruns official figure",
+      "body": "President Abelardo de la Espriella put the death toll from Monday's magnitude 7.4 quake at 181 with 2,595 injured, but forensic authorities say more than 227 have died and the government has been slow to update. Officially 195 people are missing; civilian-run databases put the figure closer to 4,000. Nearly 5,000 homes are damaged and 387 destroyed, with 550 schools and 24 health facilities affected across Cali, Pereira, Manizales and Quibdo.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran says Hormuz stays shut until its conditions are met",
+      "body": "Responding to Trump's claim that the US has \"total control\" of the strait through its \"Wall of Steel\" blockade, Iran's Persian Gulf Strait Authority said the waterway remains blocked and will not reopen until Tehran's terms are accepted. Traffic has fallen back after a brief pick-up, with 78 transits recorded between 3 and 9 August against 95 the week before, versus more than a hundred a day before the war. Marine insurers estimate $1.5-2 billion in claims from about 70 casualties since late February.",
+      "source_name": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-august-12-2026/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Ukraine hits Novorossiysk grain terminals as Russia fires North Korean missiles",
+      "body": "An overnight drone attack damaged three grain terminals at Russia's main Black Sea port, bringing down a loading gallery at the United Grain Co. plant and hitting the Demetra and KSK terminals. Zelensky described a parallel strike on the Novorossiysk naval base using Palianytsia jet drones, Neptune missiles and unmanned surface vessels as \"a unique operation.\" Russia bombarded Ukrainian cities with North Korean ballistic missiles; Ukrainian air defences shot down 112 of 138 drones launched overnight.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/ukraine-strikes-grain-terminals-at-russia-s-key-black-sea-port"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Gemini passes a billion monthly users, Google's fastest product ever",
+      "body": "Sundar Pichai said the Gemini app crossed one billion monthly active users, reaching the mark faster than any product in Google's 28-year history and becoming its 14th service at that scale. Growth ran from 400 million at I/O in May 2025 to 750 million in February and 900 million in May. Google said 63% of users interact by voice and the app generates over 150 million images a day, but declined to disclose how many users pay.",
+      "source_name": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Anthropic meets investors to steady confidence before a September listing",
+      "body": "The company is holding meetings ahead of what would be the largest IPO on record, offering assurances on growth and on handling public backlash against AI, the Wall Street Journal reported. Anthropic filed a confidential draft S-1 on 1 June alongside a $65 billion Series H at a $965 billion valuation, with a debut targeted for September or early October. Investor questions have centred on Chinese competition, regulation, data-centre opposition and the cost of compute.",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/anthropic-meets-investors-to-shore-up-confidence-ahead-of-planned-september-ipo-wsj-93CH-4850754"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "LiteLLM compromise exposed 2,500 companies and 434,000 build pipelines",
+      "body": "CloudSEK says a group calling itself Team PCP poisoned LiteLLM PyPI packages 1.82.7 and 1.82.8 in March by first compromising the Trivy security scanner inside the project's build pipeline, which stayed infected for roughly 20 days. Nvidia, AWS, Cisco, Salesforce, Siemens, X Corp and Orange are among the high-confidence matches in its exposure dataset. The FBI issued a FLASH advisory in July warning that stolen credentials could still be reused.",
+      "source_name": "CloudSEK",
+      "source_url": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines"
+    },
+    {
+      "tag": "Economy",
+      "headline": "US inflation eases to 3.4% in July, matching forecasts across the board",
+      "body": "Headline CPI rose 0.1% on the month after a 0.4% fall in June, taking the annual rate down from 3.5%. Core CPI rose 0.2% on the month and 2.5% on the year, also in line. Equity futures rose and Treasury yields fell on the release, with traders trimming the odds of a September rate hike even though inflation remains well above the Fed's 2% target.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "Solar telescope films plasma whirlpools that may explain the corona's heat",
+      "body": "Researchers using the NSF Daniel K. Inouye Solar Telescope on Maui captured Kelvin-Helmholtz instability on the Sun's photosphere as swirling structures only about 20 km across, publishing the results in Nature. The vortices mix magnetised and non-magnetised plasma, speeding the diffusion of magnetic fields into the upper atmosphere. The mechanism is a candidate answer to why the corona reaches a million degrees while the surface stays near 6,000.",
+      "source_name": "National Solar Observatory",
+      "source_url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Western Europe records its hottest start to summer as fires displace 300,000",
+      "body": "June and July averaged 21.62C, about 2.79C above normal and above the previous record set in 2022, with another heatwave arriving. France and Spain are having their worst wildfire seasons on record; more than 250,000 hectares have burned across Europe from 1,254 detected fires this year, and around 300,000 people have been displaced. Forecasters expect 2026 to finish as the second-hottest year on record behind 2024.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/10/climate/europe-heatwave-wildfire-intl-hnk"
+    },
+    {
+      "tag": "Sport",
+      "headline": "PSG beat Aston Villa 2-1 to retain the UEFA Super Cup",
+      "body": "Khvicha Kvaratskhelia put Paris ahead in the 20th minute before 17-year-old Brian Madjo equalised for Villa on the stroke of half-time. Desire Doue scored the winner in the 61st, initially ruled offside and awarded after video review. It is PSG's second Super Cup in successive years.",
+      "source_name": "ESPN",
+      "source_url": "https://www.espn.com/soccer/report/_/gameId/401873624"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Business",
+      "headline": "Chandrasekaran quits as Tata Sons chairman after board splits on his third term",
+      "body": "N Chandrasekaran said he will not seek reappointment when his term ends on 20 February 2027, ending a six-month deadlock in which one director withheld support for a resolution extending him five more years. He has asked the board to begin a succession process and removed himself from consideration, days before the Tata Sons AGM on 18 August. The rift with Tata Trusts has covered board representation, strategy and the proposed buyout of Shapoorji Pallonji's minority stake.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/companies/news/n-chandrasekaran-resigns-tata-sons-chairman-succession-process-126081200693_1.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Lok Sabha panel finds all three charges against Justice Varma proved",
+      "body": "The three-member committee set up by Speaker Om Birla concluded that the former Allahabad High Court judge failed to account for the source or ownership of cash found in a storeroom at his official residence, and that the site was disturbed before being sealed. The two-volume report, with oral and documentary evidence, was tabled in both Houses on Wednesday. The panel stopped short of a criminal finding that Varma personally owned the currency; he resigned from the judiciary in April 2025 and denies wrongdoing.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/india/story/lok-sabha-panel-finds-justice-yashwant-varma-guilty-in-cash-at-home-case-what-are-the-charges-against-him-548790-2026-08-12"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Retail inflation climbs to a 19-month high of 4.45% on food prices",
+      "body": "July CPI rose from 4.38% in June, the second straight month above the RBI's 4% target and the highest since December 2024. Food inflation quickened to 5.52% from 5.32%, driven by onion at 22.54% against 4.73% a month earlier, ginger at 83.62% and garlic at 35.36%. Rural inflation ran at 4.84% versus 3.96% in urban areas. The RBI held the repo rate at 5.25% on 5 August and expects CPI to peak near 5.9% in the December quarter.",
+      "source_name": "ANI",
+      "source_url": "https://www.aninews.in/news/business/indias-july-cpi-inflation-rises-to-445-as-food-prices-accelerate20260812161931/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "China calls the border stable while rejecting India's Arunachal place names",
+      "body": "Beijing said the frontier is \"generally stable\" amid reports of fresh friction in Arunachal Pradesh, but state media called India's move an act of self-deception. India standardised 27 sites in the state on 7 August, covering passes, villages, a lake and war memorials, in consultation with the state government. China has issued six sets of its own names for locations it calls South Tibet since 2017, totalling 112 as of April 2026.",
+      "source_name": "Republic World",
+      "source_url": "https://www.republicworld.com/india/india-counters-china-with-27-arunachal-place-names-on-official-maps-in-response-to-border-naming-disputes-2026-08-07-134261"
+    },
+    {
+      "tag": "Aviation",
+      "headline": "Air India pilot says sleep medication explains his positive drug test",
+      "body": "The pilot-in-command of the Phuket-Delhi flight that dropped about 300 feet on 4 August told investigators he had been struggling to sleep because of personal circumstances and was taking medication prescribed by his family doctor. He had tested positive for marijuana and remains off-rostered alongside his first officer while the DGCA and AAIB investigate. The civil aviation ministry has asked the DGCA to review India's pilot dope-testing rules against practice in other countries.",
+      "source_name": "Republic World",
+      "source_url": "http://www.republicworld.com/india/air-india-mid-air-scare-probe-reveals-pilot-who-tested-positive-for-marijuana-was-on-sleep-medication-2026-08-12-134590"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex closes at 77,966 as Tata Sons news drags TCS 3.7% lower",
+      "body": "The index fell 0.24% on Wednesday, with TCS the biggest single drag after Chandrasekaran's resignation ahead of the 18 August AGM. Caution before the Indian and US inflation prints, continued uncertainty over the Strait of Hormuz and firmer crude added to the weakness. Gift Nifty pointed slightly lower into Thursday's session.",
+      "source_name": "5paisa",
+      "source_url": "https://www.5paisa.com/blog/sensex-nifty-stock-market-live-updates-august-13-2026"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Sports ministry suspends the Table Tennis Federation of India",
+      "body": "The Ministry of Youth Affairs and Sports withdrew TTFI's recognition indefinitely on Wednesday over governance failures, citing missed organisational elections, appointments made without due process, opaque selection criteria and an unsatisfactory reply to a show-cause notice. The five-page order also pointed to continuing differences between president Meghna Ahlawat and secretary general Kamlesh Mehta. The Indian Olympic Association has been asked to run the sport through an interim body, five weeks before the Asian Games.",
+      "source_name": "India TV News",
+      "source_url": "https://www.indiatvnews.com/sports/other/sports-ministry-suspends-recognition-of-table-tennis-federation-of-india-2026-08-12-1051145"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Heavy rain warnings extend across the hills and central India through the weekend",
+      "body": "The IMD expects isolated heavy rainfall over Himachal Pradesh between 12 and 16 August and Uttarakhand between 11 and 16 August, with heavy falls also likely over Madhya Pradesh, Rajasthan, West Bengal and Odisha on Thursday. The monsoon trough runs from Bikaner through a low-pressure area over northwest Madhya Pradesh and out into the northeast Bay of Bengal. Assam's flood death toll stood at 100 earlier this week with nearly 300,000 people in relief camps.",
+      "source_name": "Skymet Weather",
+      "source_url": "https://www.skymetweather.com/content/weather-news-and-analysis/weather-forecast-august-13-heavy-rain-likely-over-mp-rajasthan-himachal-uttarakhand-west-bengal-and-odisha"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "India courts $200 billion in data-centre investment as AI demand builds",
+      "body": "Capacity is projected to expand by 500 MW over four years, driven mainly by AI workloads, as the government pitches India as a regional hosting hub. L&T Vyoma is putting Rs 25,000 crore into a 250 MW green data centre at Dholera in Gujarat, due to start operating in 2028. The build-out lands as the country's IT services industry confronts generative AI automating the coding, maintenance and support work its outsourcing model was built on.",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/india-eyes-200b-data-center-064556704.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Twelve rat-hole miners decorated for the Silkyara tunnel rescue",
+      "body": "Nitin Gadkari conferred the Sarvottam Jeevan Raksha Padak on the miners who tunnelled the final stretch by hand to reach 41 workers trapped in the Silkyara tunnel in Uttarakhand, at a ceremony in New Delhi on Wednesday. The award is the highest of the three Jeevan Raksha Padak grades for saving life. The men were brought in after mechanical augers failed in the collapsed Char Dham road tunnel.",
+      "source_name": "Press Information Bureau",
+      "source_url": "https://www.pib.gov.in/AllRelease.aspx?MenuId=286&reg=6&lang=1"
+    }
+  ]
+}
