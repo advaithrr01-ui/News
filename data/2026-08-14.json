@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-14",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Colombia earthquake toll reaches 265 as rescue effort enters its final phase",
+      "body": "Four days after Monday's magnitude 7.4 quake in Chocó, officials put the confirmed death toll at 265 with 496 people officially listed as missing and more than 3,700 injured. Civilian-run databases cited by the Associated Press place the missing figure far higher, at around 4,100. Search teams with heavy machinery and dogs are still working around San José del Palmar, the town of 4,800 nearest the epicentre.",
+      "source_name": "Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/730982/international/colombia-earthquake-death-toll-rises-to-265-with-nearly-500-people-still-missing"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "US says it can hold the blockade on Iranian ports indefinitely",
+      "body": "Defence Secretary Pete Hegseth said rotating aircraft carriers lets the US sustain its blockade of Iran's ports without a time limit. Iran's military rejected American claims that shipping is moving through the Strait of Hormuz, saying no vessel can pass without its permission and that the strait remains under Iranian control. CENTCOM says it has redirected 55 commercial vessels, disabled two and boarded two since the blockade began on 13 July.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Microsoft has closed 15 China operations but keeps an AI foothold open",
+      "body": "Reuters reports Microsoft has shut or withdrawn from at least 15 branches and joint ventures in China in recent years, with the country's share of worldwide revenue down to about 1.5% by 2024. The company weighed a fuller exit in 2023 before deciding to keep selected operations, relocating senior researchers and building research hubs elsewhere. What remains is tied to Azure and AI tools serving Chinese firms expanding abroad.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "IEA cuts its oil demand forecast as high prices bite into consumption",
+      "body": "The agency lowered its 2026 demand outlook this week, warning that the prolonged Hormuz disruption and elevated prices are weighing on consumption, while estimating a supply deficit of 1.8 million barrels a day this quarter, more than double its previous figure. Brent fell below $87 a barrel on Thursday after five straight sessions of gains. US crude stockpiles have dropped below 300 million barrels, the lowest in more than four decades.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "OpenAI previews an Ultrafast tier running GPT-5.6 Sol at 14 times the speed",
+      "body": "The new API service tier, powered by Cerebras hardware, generates up to 750 output tokens per second with the same model quality as the standard version. OpenAI is pitching it at voice, customer support, commerce, developer agents and security response, and says it uses the tier internally for incident diagnostics and research iteration. Access is limited to a selected group of customers while capacity grows.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Anthropic in early talks to buy Israeli startup Decart AI for about $6 billion",
+      "body": "Decart works on real-time generative video, world models and GPU optimisation, and previously raised $300 million with Nvidia among its investors. Reports of the talks emerged late on 12 August; the discussions are early and could still collapse. If completed it would be Anthropic's largest acquisition, with Decart's team folded into its inference organisation ahead of a possible listing.",
+      "source_name": "Tech Startups",
+      "source_url": "https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Trump administration asks the Supreme Court to rule quickly on mail-in voting",
+      "body": "The administration filed on Thursday asking the justices to decide soon on its restrictions to mail-in voting, which lower courts have blocked. It is one of several fronts on which the White House is trying to preserve policies after adverse rulings, alongside new tariffs, a renewed attempt to remove Fed governor Lisa Cook, and fresh executive orders on birthright citizenship. A ruling before the midterms would shape how ballots are cast in several states.",
+      "source_name": "SCOTUSblog",
+      "source_url": "https://www.scotusblog.com/2026/08/trump-administration-asks-scotus-to-rule-soon-on-mail-in-voting/"
+    },
+    {
+      "tag": "Science",
+      "headline": "Ingredients for rocky planets may have existed 100 million years after the Big Bang",
+      "body": "University of Portsmouth researchers argue that Population III supernovae, the deaths of the universe's first and largest stars, scattered carbon, oxygen and iron into surrounding gas far earlier than models assumed. That would place the raw material for rocky worlds, and possibly water, in circulation before the first galaxies had formed. The finding pushes the accepted start of planet building back by billions of years.",
+      "source_name": "Phys.org",
+      "source_url": "https://phys.org/news/2026-08-supernovae-seeded-rocky-planet-blocks.html"
+    },
+    {
+      "tag": "Climate",
+      "headline": "A strengthening tropical system is tracking toward Hawaii with flooding expected",
+      "body": "Potential Tropical Cyclone One-C was about 1,250 km east-southeast of Hilo on Thursday with sustained winds of 65 km/h, moving west at 17 km/h. Forecasters expect it to reach tropical storm strength and turn west-northwest toward the island chain. Heavy rain is due to reach the Big Island on Friday and spread west across the islands over the weekend, with a risk of flooding and mudslides on steep terrain.",
+      "source_name": "Honolulu Star-Advertiser",
+      "source_url": "https://www.staradvertiser.com/2026/08/12/breaking-news/tropical-system-east-of-hawaii-expected-to-strengthen-into-storm/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Ceh breaks the discus championship record as Hunt completes a sprint double",
+      "body": "Kristjan Ceh opened the discus final in Birmingham on Thursday with 70.83m, already past Mykolas Alekna's championship record, then threw 72.51m in the third round to extend it by almost three metres. Amy Hunt won the 200m in 22.19 to add to her 100m title, with Rhasidat Adeleke second in an Irish record 22.28. Matthew Hudson-Smith took a third European 400m title and Leo Neugebauer won the decathlon.",
+      "source_name": "World Athletics",
+      "source_url": "https://worldathletics.org/news/report/2026-european-championships-birmingham-ceh-hunt-hudson-smith"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Politics",
+      "headline": "Monsoon session ends with 11 bills passed and the Lok Sabha sitting 15% of its time",
+      "body": "Both Houses adjourned sine die on Thursday after a session in which 12 bills were introduced and 11 passed, with only the Indian Statistical Institute Bill left pending. The Lok Sabha functioned for 15% of its scheduled time and the Rajya Sabha for 33%, and nine of the 12 bills cleared the lower House with no MP other than the piloting minister speaking. Planned delimitation and FCRA amendment legislation was shelved.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/parliament-monsoon-session-12-bills-introduced-11-passed-33-hrs-spent-126081300890_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Tata Trusts moves to set up a committee to pick Chandrasekaran's successor",
+      "body": "Trustees of the Sir Dorabji Tata Trust passed a resolution on Thursday to constitute a selection committee under the Articles of Association of Tata Sons, a day after N Chandrasekaran said he would not seek a third term when his tenure ends on 20 February 2027. The committee will recommend a candidate; the formal appointment rests with the Tata Sons board under Article 121, which governs the role of Trust nominee directors.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/latest/corporate/story/tata-sons-chairman-succession-how-will-n-chandrasekarans-successor-be-selected-548982-2026-08-13"
+    },
+    {
+      "tag": "Economy",
+      "headline": "July merchandise exports hit a record $44.24 billion but the trade gap widens 31.5%",
+      "body": "Commerce Ministry data show merchandise exports rose 19.63% year on year to $44.24 billion, beating the previous July record of $38.34 billion set in 2022. Overall exports of goods and services reached $80.14 billion against imports of $95.16 billion, leaving a combined deficit of $15.03 billion, 31.5% wider than a year earlier. Imports grew 15.8%, outpacing the 13.3% rise in exports as the energy bill stayed elevated.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/commerce-ministry/indias-trade-deficit-widens-31-5-to-15-03-billion-in-july-yoy-merchandise-exports-hit-record-high"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex snaps a two-day slide as Nifty ends marginally lower on expiry day",
+      "body": "The Sensex closed 113.61 points higher at 78,079.96 on Thursday while the Nifty slipped 40.10 points to 24,395.85 in a volatile expiry session. Bank Nifty fell 250.60 points to 57,635.25. Softer domestic and US inflation prints offered support, but high crude prices, the Middle East standoff and weakness in financials and metals capped the gains.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/markets/news/stock-market-live-updates-13-august-sensex-today-nifty50-gift-nifty-126081300074_1.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "L&T wins an order worth up to Rs 15,000 crore to build a 10,000-GPU AI factory in Chennai",
+      "body": "Vyoma.AI, L&T's data centre arm, will deploy 10,000 Nvidia B300 GPUs for US firm Together AI at its Chennai campus, in what the company calls India's largest single-cluster AI installation. The order is valued at Rs 10,000-15,000 crore. Phase 1 of the site is designed for 250 MW with 150 MVA of power readiness, and will run inference, fine-tuning and training workloads.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/companies/news/l-and-t-to-set-up-nvidia-b300-ai-factory-for-together-ai-126081301000_1.html"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Rafales fly in Malaysia for the first time as Udara Shakti 2026 gets under way",
+      "body": "The Indian Air Force and the Royal Malaysian Air Force are running the bilateral exercise at Subang Air Base in Selangor from 10 to 14 August, with a three-day flying phase that ended Thursday. India has sent four Rafales from 101 Squadron and two C-17s from 81 Squadron, 83 personnel in all, flying dissimilar combat manoeuvres and air-to-air refuelling against Malaysian Su-30MKMs and F/A-18Ds. It is the Rafale's first appearance in the exercise since induction in 2020.",
+      "source_name": "ANI",
+      "source_url": "https://aninews.in/news/world/asia/india-malaysia-commence-bilateral-exercise-udara-shakti-2026-at-subang-air-base20260813020229/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Modi to mark the 80th Independence Day at the Red Fort with Vande Mataram sung for the first time",
+      "body": "The national song will be rendered as the Prime Minister arrives on Saturday, before the flag hoisting and his address, marking 150 years since it was written. About 5,000 special guests have been invited, including Mudra Yojana women entrepreneurs, NAMASTE, PM AJAY and SEED beneficiaries, My Bharat volunteers and PMAY(U) recipients. Seating enclosures have been named after Indian lakes, from Pangong Tso to Vembanad.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/independence-day-2026-theme-history-speech-august-15-celebrations-nc-126081300633_1.html"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of very heavy rain over Himachal and Uttarakhand through the weekend",
+      "body": "Isolated very heavy falls are likely over Himachal Pradesh on 14 August and again from 17 to 18 August, and over Uttarakhand on 14 August and from 16 to 17 August. Fairly widespread to widespread rain is expected across Himachal, Jammu and Kashmir and Uttarakhand until 19 August, with heavy rain also forecast for Delhi-NCR and Uttar Pradesh. Both hill states have already seen flash floods, blocked roads and stranded travellers this month.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/imd-weather-forecast-august-14-widespread-rain-to-continue-lashing-delhi-ncr-up-check-full-region-wise-details-8500730/"
+    },
+    {
+      "tag": "Science",
+      "headline": "Delhi H1N1 cases run at nearly six times last year's level with no deaths so far",
+      "body": "The capital has recorded 1,349 confirmed cases this year against 229 in the same period of 2025, with no fatalities reported. Health authorities say hospitals are equipped to manage patients. The rise has come alongside a broader increase in respiratory infections during the monsoon, and doctors are flagging breathing difficulty, persistent fever and severe weakness as reasons to seek care.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/health/2026/08/10/h1n1-cases-surge-in-delhi-what-are-the-warning-signs-and-how-to-stay-safe.html"
+    },
+    {
+      "tag": "Sport",
+      "headline": "India pull out of the ASEAN Cup to prioritise a friendly against Brazil",
+      "body": "The national football team has withdrawn from the regional tournament so it can prepare for the Brazil fixture, one of the highest-profile matches India has arranged. Elsewhere on Thursday, R Praggnanandhaa lost his round at the Sinquefield Cup, while R Vaishali, Divya Deshmukh and Koneru Humpy were in action at the Cairns Cup. The Durand Cup continued at home.",
+      "source_name": "ESPN",
+      "source_url": "https://www.espn.com/espn/story/_/id/49591633/chess-praggnanandhaa-sinquefield-cup-vaishali-divya-humpy-cairns-cup-durand-cup-continues-indian-sports-live-august-13"
+    }
+  ]
+}
