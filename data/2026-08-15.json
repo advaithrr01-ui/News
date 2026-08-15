@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-15",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Record rain kills eight in Chiba as Japan issues its highest warning for the region",
+      "body": "The Japan Meteorological Agency recorded 351mm of rain at Chiba station on 13 August, the highest daily total since records began in 1966 and well above the previous mark of 259mm. Eight people were confirmed dead across Chiba City, Ichikawa, Kashiwa, Sakura and Yachiyo, with one person still missing and at least 170 homes damaged. Evacuation orders reached more than 100,000 residents and around 7,000 passengers were stranded overnight at Narita Airport after rail and bus links were cut.",
+      "source_name": "The Watchers",
+      "source_url": "https://watchers.news/2026/08/14/record-rainfall-floods-and-outages-hit-chiba-leaving-at-least-8-dead-japan/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Ukraine claims its largest territorial gain in four years around Oleksandrivka",
+      "body": "Ukraine's Airborne Assault Forces Command said troops had retaken 26 settlements and more than 745 square kilometres in a push that ran for over six months, though the Institute for the Study of War put the figure closer to 627 square kilometres. Twelve of the settlements are in Dnipropetrovsk oblast, ten in Donetsk and four in Zaporizhzhia. By area it is the largest Ukrainian advance since the Kharkiv and Kherson counteroffensives of autumn 2022.",
+      "source_name": "Euronews",
+      "source_url": "https://www.euronews.com/my-europe/2026/08/14/kyivs-forces-retake-26-settlements-and-over-600-km2-in-southeastern-ukraine"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "Colombia earthquake toll passes 287 as red alerts stay in force across five cities",
+      "body": "The confirmed death toll from the 10 August magnitude 7.4 quake rose to 287, with more than 3,970 injured and 379 people listed as missing. Pereira, Cali, Quibdo, Manizales and Armenia remain under red alert, the country's highest disaster level. It is the strongest earthquake to strike Colombia in a decade.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Wildfire reaches the centre of Croatia's Omis, forcing about 1,000 to flee",
+      "body": "A fire that began Thursday evening at Lokva Rogoznica spread overnight into the Borak neighbourhood above the town centre at around 1.45am, destroying homes and burning between 900 and 1,000 hectares. Around 1,000 residents and tourists were evacuated by land and sea, with 19 people injured and more than 300 sheltering at the Gripe Sports Centre in Split. A total of 157 firefighters and 44 engines were deployed as shifting winds hampered containment.",
+      "source_name": "Balkan Insight",
+      "source_url": "https://balkaninsight.com/2026/08/14/thousands-flee-14-hospitalised-as-wildfire-menaces-croatian-coastal-town/bi/"
+    },
+    {
+      "tag": "Politics",
+      "headline": "France's top court upholds assisted dying but strikes down the under-15 social media ban",
+      "body": "The Constitutional Council approved legislation creating a right to assisted dying for adults with incurable conditions, passed by parliament in July, placing France alongside the Netherlands, Belgium, Switzerland and Canada. It simultaneously struck down a ban on social media for under-15s, ruling the measure \"neither appropriate, necessary, nor proportionate\" to freedom of expression and flagging privacy risks in age verification. The presidency said it would work on a new draft law.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Judge dismisses the Trump administration's antisemitism lawsuit against Harvard",
+      "body": "US District Judge Richard Stearns found the discrimination cited by the government \"too isolated and episodic\" to breach civil rights law, noting the amended complaint rested almost entirely on incidents from the 2023-24 academic year and just three from March 2025. The suit, filed in March, had sought to cut off future federal funding and claw back nearly $1 billion in grants already issued. It is a setback to a months-long pressure campaign on the university.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/13/g-s1-138665/trump-harvard-lawsuit-dismissed"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran's military rejects Trump's claim of control over the Strait of Hormuz",
+      "body": "Ebrahim Zolfaghari, spokesperson for Iran's central military command, called Washington's claim that ships are transiting normally \"lies and fabrications\", saying no tanker passes without Iranian permission and supervision. He was responding to Trump's Truth Social post describing the US naval blockade as a \"wall of steel\". Traffic through the strait has fallen to near three-month lows as the standoff keeps crude prices elevated.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims"
+    },
+    {
+      "tag": "Markets",
+      "headline": "S&P 500 clears 7,800 for the first time as producer inflation comes in soft",
+      "body": "The index closed at a record 7,799 after adding 0.65%, with the Nasdaq up 0.81% at 26,803 and the Russell 2000 notching a fresh record to end the week. Headline and core PPI both rose 4.7% year on year in July, still well above the Fed's 2% target, but softer than expected and following a benign CPI print. Futures markets put a 67.1% probability on the Fed holding rates at 3.50-3.75% in September, and the 10-year Treasury yield fell to 4.647%.",
+      "source_name": "TheStreet",
+      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Z.ai upgrades GLM-5.3 as Chinese open-weight models target coding workloads",
+      "body": "The Chinese developer said its flagship model has been improved specifically for coding, positioning it against Anthropic and OpenAI in a segment where open-weight releases have been gaining ground. The move lands as both US labs cut prices, with OpenAI reducing GPT-5.6 Luna pricing and Anthropic placing Claude Opus 5 at roughly half the cost of its higher-end Fable 5 tier. Separately, Anthropic added AI watermarking across its products to comply with EU law.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model"
+    },
+    {
+      "tag": "Science",
+      "headline": "Webb finds Neptune's inner moons may be debris from a collision triggered by Triton",
+      "body": "A Caltech-led team using JWST detected clay-like minerals, which form in the presence of liquid water, on the moons Larissa and Galatea and in Neptune's rings, even though those moons show no obvious water ice. The researchers argue Neptune's original satellite system was destroyed when Triton was captured from elsewhere in the solar system, with debris later coalescing into the small inner moons seen today. Astronomers separately released more than three million new spectra as the SDSS-V survey extended to the Southern Hemisphere.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Politics",
+      "headline": "Modi leads the 80th Independence Day at a Red Fort ringed by anti-drone cover",
+      "body": "The prime minister hoists the tricolour and delivers his 13th consecutive address from the ramparts, with the ceremony built around two themes, 150 Years of Vande Mataram and Yuva Shakti for Viksit Bharat@2047. The national song is being sung from the Red Fort for the first time, and military and security bands have performed at 343 locations nationwide since 8 August. More than 12,000 police have been deployed, over 20,000 people screened, and the complex fitted with a dense surveillance grid and anti-drone systems.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/independence-day-2026-security-tightened-across-delhi-pm-modi-to-address-nation-as-red-fort-set-to-witness-maiden-rendition-of-vande-mataram-8501929/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Centre notifies 40 Census questions with caste enumeration for all communities",
+      "body": "The Ministry of Home Affairs, through the Registrar General of India, published the questionnaire for the population enumeration phase of Census 2027, covering caste, religion, education, employment, migration, Aadhaar and bank account details, and COVID vaccination. It is the first comprehensive count of all castes in a decennial census since 1931, following the Cabinet Committee on Political Affairs decision of April 2025. Phase II enumeration is scheduled for February 2027.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/india/caste-among-40-census-queries-notified-by-govt/"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Wholesale inflation eases to 9.78% in July as fuel prices cool",
+      "body": "Provisional data released on 14 August put WPI inflation at 9.78% year on year, down from 9.87% in June. Fuel and power inflation fell sharply to 20.05% from 27.41%, offsetting increases in primary articles to 8.52% from 7.0% and manufactured products to 8.29% from 7.48%. The WPI food index rose to 6.65% from 6.14%.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/economy/wpi-inflation-eases-marginally-to-9-78-pc-in-july-food-fuel-and-power-prices-cool/3014609/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex ends marginally lower at 78,009 as Middle East risk keeps buyers cautious",
+      "body": "The Sensex shed 70.71 points, or 0.09%, to 78,009.25 and the Nifty 50 fell 29.85 points to 24,366 in a volatile Friday session. Selling in auto, energy, FMCG, metal, pharma and realty offset gains in consumer durables and media, with 2,244 stocks declining against 1,855 advancing. The Nifty Midcap index fell 0.5% and the Smallcap index 0.7% on broader profit-taking.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-august-14-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-q1-result-today-ipo-listing-126081400074_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Maharashtra FDA suspends 14 dark store licences tied to Blinkit, Zepto and Instamart",
+      "body": "Inspectors visited 86 online food delivery establishments across the state on 13 August, checking storage, temperature control, pest control, handler hygiene and FIFO stock rotation. Five suspended licences belonged to Blinkit outlets, five to Zepto, two to Instamart, and one each to Bhagwati Stores and Swinsta Ent Pvt Ltd. Violations included expired stock and poor hygiene practices.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/maharashtra-fda-suspends-14-licences-linked-to-blinkit-zepto-instamart-126081401880_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Zetwerk files for a Rs 2,600 crore IPO as LEAP India lists at a premium",
+      "body": "The manufacturing services marketplace submitted draft papers for the offering, one of the larger industrial-technology listings in the pipeline. LEAP India shares debuted above their issue price on the same day. Tiger Global separately exited its entire holding in the streaming platform The Viral Fever.",
+      "source_name": "StartupTalky",
+      "source_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-14-august-2026/"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Kaspersky says it blocked 75 million attacks in Asia-Pacific with India among top targets",
+      "body": "The security firm reported blocking 75 million cyberattacks across the region between January and June 2026, naming India among the five Asia-Pacific countries most frequently hit by advanced persistent threat groups. The finding lands as India scales up domestic data-centre and AI compute capacity, widening the attack surface across critical infrastructure.",
+      "source_name": "StartupTalky",
+      "source_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-14-august-2026/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of flash floods across the north on Independence Day",
+      "body": "The weather office issued a widespread rainfall and thunderstorm warning covering Delhi-NCR, Punjab, Haryana, Uttar Pradesh and Himachal Pradesh for 15 August, flagging the risk of flash floods and localised waterlogging. Fairly widespread to widespread rain is forecast over Himachal Pradesh, Jammu and Kashmir, Ladakh and Uttarakhand through 20 August, with heavy falls at a few places. Repeated showers on saturated Himalayan slopes raise the likelihood of landslides and debris flows.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/imd-weather-forecast-august-15-heavy-rainfall-predicted-for-delhi-punjab-up-himachal-pradesh-lightning-warning-issued-detailed-report-8501760/"
+    },
+    {
+      "tag": "Business",
+      "headline": "Dorabji Tata Trust moves on a selection committee as Chandrasekaran's exit is confirmed",
+      "body": "N Chandrasekaran informed the trust's nominee directors on 12 August that he will not seek reappointment when his term ends on 20 February 2027, after months of deadlock triggered by a single director withholding support. Trustees passed a resolution to constitute a selection committee to recommend the next Tata Sons chairman. The committee is expected to follow the mechanism set out in the company's Articles of Association.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/latest/corporate/story/tata-sons-chairman-succession-how-will-n-chandrasekarans-successor-be-selected-548982-2026-08-13"
+    },
+    {
+      "tag": "Sport",
+      "headline": "India begin their 600th Test at Galle without Bumrah",
+      "body": "The first of two Tests against Sri Lanka starting today is India's 600th, making them the third side after England and Australia to reach the mark. It opens their ICC World Test Championship 2025-27 campaign and is their first red-ball tour of Sri Lanka in nine years, under captain Shubman Gill and coach Gautam Gambhir. Jasprit Bumrah is out of the series with injury and Washington Sundar misses the opening match.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/cricket/news/india-vs-sri-lanka-1st-test-playing-11-live-match-time-streaming-600th-test-galle-126081400953_1.html"
+    }
+  ]
+}
