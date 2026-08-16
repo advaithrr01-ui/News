@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-16",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Israeli strikes kill 11 in southern Lebanon in deadliest exchange since June",
+      "body": "An overnight strike on Ansar near Nabatieh killed seven people including three children, and Israeli aircraft hit Deir al-Zahrani hours later, killing at least four and injuring 17, the Lebanese health ministry said. Israel said the raids targeted Hezbollah infrastructure and followed a Hezbollah attack that seriously wounded three Israeli soldiers, later acknowledging civilian deaths and saying the women and children were family members of a targeted commander. These were the deadliest attacks since the June arrangements that eased hostilities along the border, and Hezbollah has threatened to retaliate.",
+      "source_name": "France 24",
+      "source_url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran detains two French diplomats, drawing an accusation of premeditated assault from Paris",
+      "body": "Iran's Intelligence Ministry said on Saturday that its units encountered the two diplomats while executing a judicial order to arrest suspects in an investigation into alleged foreign infiltration and interference, and that the pair were handed to the French ambassador. France said the diplomats were held for nearly four hours, denied contact with their embassy, and that one was physically assaulted. Foreign Minister Jean-Noel Barrot called it an extremely serious and premeditated assault and a breach of diplomatic immunity.",
+      "source_name": "Anadolu Agency",
+      "source_url": "https://aa.com.tr/en/europe/iran-says-2-french-diplomats-detained-over-alleged-foreign-interference/4028354"
+    },
+    {
+      "tag": "Politics",
+      "headline": "UK calls Netanyahu's description of Britain as an Islamic republic completely unacceptable",
+      "body": "In an Army Radio podcast released on 13 August, Israel's prime minister said critics could call Britain today the Islamic Republic of Britain, and repeated a line that the first Islamic republic with nuclear weapons would be Britain. A UK government spokesperson said the remarks were completely unacceptable and that the issue had been raised with the Israeli government. Critics noted Pakistan is the nuclear-armed state with an Islamic constitution.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of"
+    },
+    {
+      "tag": "Science",
+      "headline": "DR Congo Ebola outbreak passes 2,180 deaths and spreads to a sixth province",
+      "body": "The Democratic Republic of the Congo had recorded 4,665 confirmed cases and 2,184 deaths as of 13 August, an increase of 99 cases and 56 deaths in a single day. Africa CDC said the outbreak had reached Bas-Uele after an imported case from Haut-Uele was identified in Buta, taking the total to 54 affected health zones across six provinces. Caused by Bundibugyo ebolavirus, for which existing Ebola therapeutics are not certified, it is now the fastest-growing Ebola outbreak on record and the second largest.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Europe's fifth heatwave of the summer pushes the UK to its hottest day of the year",
+      "body": "Temperatures passed 35C across several European countries, with west London reaching 38.1C to beat the previous 2026 high of 38C set in June, and Meteo-France recording 42.5C at Chateaumeillant. More than 135 million people were forecast to face extreme heat, affecting roughly half the continent's population. The running estimated heat-related death toll across Europe this summer has climbed above 9,900, with Spain reporting more than 100 deaths.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Philippine monsoon and cyclone toll reaches 26 with Baguio landslides the worst hit",
+      "body": "The Philippine National Police put the combined death toll from tropical cyclones Luis and Maymay and the enhanced southwest monsoon at 26, of which 16 were from landslides in Baguio City, La Trinidad and Atok in Benguet. Baguio recorded 1,413.2mm of rain between 1 and 9 August against a typical August total of 963.2mm. More than half a million people across 33 provinces have been affected, with 182 areas in Luzon flooded.",
+      "source_name": "Philstar",
+      "source_url": "https://www.philstar.com/headlines/2026/08/12/2548741/pnp-deaths-monsoons-storms-hit-26"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Alibaba releases Qwen 3.8 27B under Apache 2.0 as open-weight competition intensifies",
+      "body": "The Qwen team published a 27-billion-parameter causal language model with integrated vision and a 262,000-token native context window under a permissive Apache 2.0 licence. It is the most recent entry in a month that has seen ten new model releases from six providers, including Google's Gemini 3.7 Flash on 13 August. Permissive licensing at this parameter count puts capable multimodal inference within reach of self-hosted deployments.",
+      "source_name": "LLM Stats",
+      "source_url": "https://llm-stats.com/ai-news"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Google open-sources HEIR, a compiler for running model inference on encrypted data",
+      "body": "The Homomorphic Encryption Intermediate Representation toolchain converts pretrained models so they can run inference over encrypted inputs, meaning the serving infrastructure never sees the underlying plaintext. Google separately said Gemini crossed one billion monthly active users on 11 August. Encrypted inference has been a long-standing bottleneck for deploying models on regulated health and financial data.",
+      "source_name": "LLM Stats",
+      "source_url": "https://llm-stats.com/ai-news"
+    },
+    {
+      "tag": "Science",
+      "headline": "Perseverance films Earth vanishing behind Phobos as Webb spots an early-universe oddity",
+      "body": "NASA's Perseverance rover captured Earth disappearing behind Mars's small moon Phobos on 13 August, a first for the mission. The same week, astronomers using the James Webb Space Telescope reported an unusual object dating to just a few hundred million years after the Big Bang. A separate study published on 15 August warned that measurements of exoplanet rotation may often be recording atmospheric wind speeds instead, noting that Venus's clouds circle the planet about 60 times faster than Venus itself rotates.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/news/space_time/space_exploration/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Premier League clubs close pre-season with the 2026-27 campaign a week away",
+      "body": "The final weekend of friendlies produced lopsided results including Brentford 7-0 Eintracht Frankfurt, Chelsea 3-1 Real Sociedad and Tottenham 3-0 Hoffenheim, while Newcastle lost 2-1 to Bayer Leverkusen and Aston Villa fell 2-1 at Borussia Monchengladbach. The season opens on Friday 21 August with champions Arsenal hosting newly promoted Coventry City at the Emirates. The full opening round runs across the weekend of 22 August.",
+      "source_name": "Sky Sports",
+      "source_url": "https://www.skysports.com/football/news/11095/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Politics",
+      "headline": "Modi pledges AI training for one crore youth in a 75-minute Independence Day address",
+      "body": "In his 13th consecutive speech from the Red Fort, the prime minister announced a nationwide programme to train one crore young Indians in artificial intelligence over the next year, free online coaching for competitive examinations, and a sports talent hunt covering children aged 5 to 15 drawn from schools, villages and cities. He also announced a modernised civil defence network. At 75 minutes it was his shortest Independence Day address in four years.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/india/story/ai-training-free-online-coaching-sports-talent-hunt-pm-modis-pitch-to-gen-z-on-80th-independence-day-549408-2026-08-15"
+    },
+    {
+      "tag": "Policy",
+      "headline": "India sets a 100 GW nuclear target for 2047 with five reactors due within six to seven years",
+      "body": "Modi used the Red Fort address to commit India to 100 GW of nuclear capacity by 2047, citing the SHANTI Act passed by Parliament that opens the sector to private participation. He said five new reactors would be commissioned within six to seven years and pointed to this year's fast breeder reactor milestone as progress towards domestic fuel self-reliance. The speech also flagged an offshore exploration push and framed critical minerals, nuclear and renewable power as the energy base for AI, semiconductors and data centres.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/india/story/target-of-100-gw-of-nuclear-energy-by-2047-5-new-nuclear-reactors-to-be-operational-within-6-7-years-pm-modi-549373-2026-08-15"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Seven to eight semiconductor plants promised within two years",
+      "body": "Among six major commitments made from the Red Fort, the prime minister said seven to eight semiconductor fabrication plants would be operational in the next one to two years. The pledge follows Semicon 2.0, announced on 15 July with an outlay of Rs 1.275 trillion covering design, fabrication, display manufacturing, advanced packaging, equipment, materials and talent development, and builds on 12 already-approved facilities. Tata Electronics and ASML signed an agreement in May for a front-end fab in Gujarat.",
+      "source_name": "The Logical Indian",
+      "source_url": "https://thelogicalindian.com/pm-modi-independence-day-2026-122418/"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Kharge uses his Independence Day remarks to allege interference in constitutional institutions",
+      "body": "Speaking at the flag-hoisting at Indira Bhawan alongside Sonia Gandhi and Rahul Gandhi, the Congress president said the Election Commission, judiciary, universities, investigative agencies and media organisations had faced interference that eroded public trust. He said he and the Leader of the Opposition in the Lok Sabha had repeatedly raised student and youth concerns in Parliament without adequate answers, and defended peaceful protest as a constitutional right rather than an anti-national act.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/politics/thankfully-he-hasnt-claimed-he-created-the-world-kharges-swipe-at-modi-on-congress-contribution/3015873/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD forecasts heavy to extremely heavy rain across eastern and northern India",
+      "body": "The weather office said monsoon activity remains active, with widespread rainfall on Sunday and heavy to extremely heavy falls likely in parts of eastern and northern India. Isolated heavy rain is expected over Punjab through 19 August and over Haryana, Chandigarh and Delhi from 14 to 19 August, with another widespread spell for the Delhi-Punjab belt around 18 August. Very heavy isolated rainfall is forecast for Jammu and Kashmir, Himachal Pradesh and Uttarakhand, where saturated slopes raise landslide risk.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/imd-heavy-rain-forecast-india-monsoon-activity-126081600078_1.html"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Padikkal's maiden Test century puts India in command at Galle before rain halts day two",
+      "body": "Devdutt Padikkal made an unbeaten 131 off 178 balls as India closed the opening day of their 600th Test on 288 for 2, after Shubman Gill won the toss and chose to bat. KL Rahul made 77 before retiring hurt with severe cramps, Gill fell for 16 and Rishabh Pant was 27 not out at stumps. Heavy rain at Galle on Sunday left the ground under covers and made a timely start to day two unlikely.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/match-report"
+    },
+    {
+      "tag": "Economy",
+      "headline": "India and the US stay engaged on the bilateral trade agreement as fresh tariff issues surface",
+      "body": "Commerce Secretary Rajesh Agarwal said on 13 August that both sides remain committed to finalising the framework agreed in February and are in regular contact. Under that framework the US reciprocal tariff rate on India was cut to 18% with immediate effect, and India agreed to reduce tariffs and non-tariff barriers on US goods to zero. New tariff developments in Washington have introduced uncertainty into the next phase of negotiations.",
+      "source_name": "India West",
+      "source_url": "https://indiawest.com/india-us-stay-engaged-on-trade-deal-as-tariff-issues-mount/"
+    },
+    {
+      "tag": "Business",
+      "headline": "Blackstone-backed Horizon Industrial Parks opens a Rs 2,600 crore IPO this week",
+      "body": "The warehousing and industrial parks platform will take subscriptions from 17 to 19 August in an offer consisting entirely of fresh issuance. Elsewhere in the pipeline, KKR is set to acquire the Indian business of Medicover AB in a transaction worth up to $1.5 billion including fresh capital for expansion and debt repayment, and OfBusiness is reviving its listing plans with a DRHP targeted for mid-November for an offering of roughly $800 million.",
+      "source_name": "Startup Feed",
+      "source_url": "https://startupfeed.in/india-ipo-updates-august-2026/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "ISRO's Vikram microprocessor becomes India's first fully indigenous 32-bit chip",
+      "body": "Union Minister Ashwini Vaishnaw presented Vikram, a space-grade 32-bit microprocessor designed and fabricated at ISRO's Semiconductor Laboratory in Chandigarh and built to tolerate extreme conditions. The chip has already been validated in orbit on the PSLV-C60 mission. A parliamentary reply published on 12 August put the number of registered space technology startups in India at about 440.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/sci-tech/2026/03/02/the-brain-behind-india-s-space-dreams-on-isro-s-4-year-mission-for-home-grown-semiconductor-chips.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "ICMR opens 83 research institutes to 30,000 school students",
+      "body": "The second edition of ICMR-SHINE, Science and Health Innovation for NextGen Explorers, ran on 11 and 12 August across 83 ICMR institutes, Model Rural Health Research Units and affiliated field centres. Around 30,000 students from Grades 9 to 12 took part in guided laboratory visits, research exhibitions, poster walks and live demonstrations. The programme is aimed at widening the pipeline into health research careers.",
+      "source_name": "BW Healthcare World",
+      "source_url": "https://www.bwhealthcareworld.com/article/icmr-shine-2026-opens-health-research-doors-to-30-000-students-619064"
+    }
+  ]
+}
