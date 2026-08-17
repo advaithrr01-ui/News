@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-17",
+  "world": [
+    {
+      "tag": "Defence",
+      "headline": "Ukraine sends hundreds of drones into Russia in one of the war's largest aerial attacks",
+      "body": "Russia's defence ministry said it destroyed 822 Ukrainian drones overnight into Sunday, with Moscow Mayor Sergei Sobyanin reporting about 600 detected heading for the capital. Five people were killed in three towns in the southwestern Rostov region, where more than 150 drones damaged homes and a railway station, and an 83-year-old man died when a drone hit a house in the Moscow region. A separate strike started a fire at a Wildberries warehouse in Podolsk.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Kushner meets Hamas leader in Egypt to salvage the 15-point Gaza disarmament roadmap",
+      "body": "Jared Kushner held a rare 90-minute meeting with Hamas chief Khalil al-Hayya in El-Alamein on Sunday, pressing for verifiable disarmament under the US-backed 15-point plan that pairs Hamas demilitarisation with an Israeli withdrawal. Kushner also met Egyptian President Abdel Fattah el-Sissi, while al-Hayya met intelligence chief Hassan Rashad. Netanyahu, who has rejected the roadmap over what Israel calls serious security concerns, meets Kushner on Monday.",
+      "source_name": "Axios",
+      "source_url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel"
+    },
+    {
+      "tag": "Defence",
+      "headline": "USS George Washington heads for the Middle East to relieve a carrier at sea over 260 days",
+      "body": "The forward-deployed carrier left its port visit in Vietnam on 5 August and is now on a week-long transit to replace the USS Abraham Lincoln, which has stayed in theatre since the war against Iran began on 28 February. The Lincoln has logged more than 260 days at sea uninterrupted, and reports have emerged of mental health and supply problems aboard. Defense Secretary Pete Hegseth said on 13 August that the Navy can sustain the posture around Iran indefinitely by rotating ships.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Taliban mark five years in power as the UN warns of a deepening rights crisis",
+      "body": "Armoured vehicles paraded outside the former US embassy in Kabul on Saturday and officials gathered at the Loya Jirga hall to mark what the government calls victory day, with commemorations also planned in Pakistan, China, Uzbekistan, Iran, Turkey and Malaysia. A senior UN official used the anniversary to warn of a grave human rights crisis in a country where girls over 12 remain barred from school. Aid agencies say humanitarian need is at a record high, driven by drought, earthquakes and mass deportations of Afghans from neighbouring states.",
+      "source_name": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/15/afghanistan-taliban-marks-takeover-anniversary/40be50ba-988d-11f1-9ef9-1be722184483_story.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Morocco turns back hundreds at Ceuta as Spain tries to close the July crossing chapter",
+      "body": "Moroccan police and army units deployed heavily at the border on Saturday and fended off hundreds of migrants attempting to reach the Spanish enclave. The attempt follows the week of 27 July, when more than 70,000 people crossed into Ceuta and over 140 died; Madrid says most have since returned to Morocco of their own accord. Prime Minister Pedro Sanchez has blamed trafficking networks for misrepresenting a Spanish Supreme Court ruling on migrant returns, and key facts about the July crossing remain disputed.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Chiba flood death toll rises to nine as 463 people remain in shelters",
+      "body": "Prefectural authorities raised the toll from last week's record rainfall east of Tokyo to nine on Sunday, with one man still missing. Victims include a woman in her 70s found in a car submerged to its roof in Kashiwa and a man in his 40s trapped in a flooded underpass in Chiba city. Around 1,160 homes were damaged and roughly 1,000 vehicles abandoned; local stations recorded over 115 mm of rain in a single hour, close to a full month's August average.",
+      "source_name": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/16/japan/chiba-rain-death-toll/"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "Thieves take four Antonello da Messina panels in Sicily days after a Parma recovery",
+      "body": "Italian police recovered three works on Friday that had been taken from the Magnani Rocca Foundation near Parma, including paintings valued at about $3.5 million and a Matisse aquatint. On Saturday night, during the Ferragosto holiday and the La Vara festival in Messina, thieves defeated the alarm at the Museo Interdisciplinare Regionale and forced a security case to remove four wooden panels by the Renaissance painter Antonello da Messina. It is the latest in a run of European museum heists this year.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma"
+    },
+    {
+      "tag": "Markets",
+      "headline": "US indices finish mixed as odds of a September Fed hike fall to about 32%",
+      "body": "Softer consumer sentiment and retail sales data cooled expectations of an imminent tightening, with futures pricing roughly a 32% chance of a hike at the September meeting by Friday afternoon, down from about 52% earlier in the week. The Russell 2000 and S&P MidCap 400 each added more than 1%, the S&P 500 posted a smaller gain, the Nasdaq was little changed and the Dow finished lower. Rising oil prices and continued uncertainty over the Strait of Hormuz offset favourable AI-related earnings.",
+      "source_name": "T. Rowe Price",
+      "source_url": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "EU chatbot disclosure rules are now in force but only about ten states are ready to enforce them",
+      "body": "Article 50 transparency obligations under the AI Act took effect on 2 August, requiring chatbots to identify themselves, deepfakes to be labelled and AI-generated content to carry machine-readable marks, with penalties up to 15 million euros or 3% of global turnover. The Commission's AI Office is enforcing alongside national authorities, but only around ten member states, including Ireland, Spain, Germany, France, Italy and the Netherlands, have advanced public implementation. No major new AI model launch or company announcement surfaced from established outlets in the past 48 hours.",
+      "source_name": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Italy edge Great Britain by one gold at the European Athletics Championships in Birmingham",
+      "body": "The seven-day championships closed on Sunday night with the men's 4x400m relay, which Italy won by 0.03 seconds to finish top of the medal table. It is Italy's second consecutive first-place finish at the championships. The final day also featured the men's and women's marathons, the men's pole vault, the women's javelin, long jump and 1500m, and both 4x400m relays.",
+      "source_name": "Olympics.com",
+      "source_url": "https://www.olympics.com/en/news/european-athletics-championships-2026-netherlands-and-italy-take-final-golds-of-the-championships-in-4x400m-relay"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Breaking",
+      "headline": "Five Army personnel missing in Arunachal flash flood as a landslide kills four road workers",
+      "body": "A flash flood late on Friday swept away two shelters of the 5th Grenadiers at the Pasu Pani camp in Dibang Valley; seven personnel were carried off, two were rescued and five remain missing. Search teams from the 5th Grenadiers, the 58th Battalion of the ITBP, 62 RCC of the GREF, state police and local volunteers are deployed. Separately, a landslide buried workers at the Keojaring-Byaching road construction site in Upper Subansiri, killing four, one of whose bodies has been recovered.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/4-people-killed-after-flash-flood-in-arunachal-5-army-personnel-missing-126081500366_1.html"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Odisha floods affect 2.7 lakh people across 503 villages with 95,000 moved to relief camps",
+      "body": "The Special Relief Commissioner reported 2.70 lakh people affected across 52 blocks in Balasore, Bhadrak, Jajpur, Mayurbhanj, Keonjhar and Kendrapara, with 95,206 people moved into 226 relief camps. Balasore is worst hit with 79,443 affected, followed by Bhadrak at 51,560 and Jajpur at 46,570. A total of 118 teams from ODRAF, the NDRF, fire services and police are deployed, and a rising Subarnarekha is compounding flooding already caused by the Jalaka and Budhabalanga rivers.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/india/odisha-floods-over-95000-moved-to-safer-locations-as-situation-remains-grim-in-6-districts/3016170/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD issues a red warning for Odisha as a fresh low forms over the Bay of Bengal",
+      "body": "The department forecast isolated extremely heavy rainfall over Odisha on 16 and 17 August and over Gangetic West Bengal on 17 August, with heavy to very heavy falls also likely across north Odisha and Jharkhand. The new system arrives while a lakh people are already in relief camps. Fishermen have been advised against venturing out along the coasts of West Bengal, Odisha, north Andhra Pradesh and adjoining Bangladesh from 16 to 18 August.",
+      "source_name": "India TV",
+      "source_url": "https://www.indiatvnews.com/news/india/imd-issues-heavy-rain-alert-for-odisha-and-tamil-nadu-delhi-may-see-light-showers-2026-08-16-1051524"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Election Commission removes 1.58 crore names in the third phase of the electoral roll revision",
+      "body": "Data released by the ECI shows 1,58,59,834 entries deleted from draft rolls published in 12 states and union territories, about 11.51% of voters covered so far in phase three of the Special Intensive Revision. The commission says the entries cover voters absent from registered addresses, those who had shifted, the deceased and duplicate registrations. A claims and objections window remains open, so final rolls may change; the phase spans 19 states and union territories including Delhi, Maharashtra, Karnataka, Telangana and Punjab.",
+      "source_name": "Madhyamam",
+      "source_url": "https://madhyamamonline.com/india/sir-phase-3-another-15-crore-voters-deleted-in-12-states-uts-1544798"
+    },
+    {
+      "tag": "Economy",
+      "headline": "July trade deficit widens to a six-month high of $31.98 billion despite a 19.6% export jump",
+      "body": "Merchandise exports rose 19.63% year on year to $44.24 billion in July, but imports climbed faster to $76.22 billion, pushing the goods trade gap to its widest in six months. Headline CPI inflation rose to 4.45% in July from 4.38% in June, the highest reading since December 2024, with food and beverages at 5.52% and transport at 4.43%. The pressure traces to the energy price surge since the Middle East war began and the consequent weakness in the rupee.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/economy/news/weekly-economy-wrap-inflation-trade-deficit-viksit-bharat-roadmap-126081600222_1.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Rupee holds near 95.40 a dollar after touching an all-time low of 96.84",
+      "body": "The currency traded broadly flat at about 95.40 into the weekend as investors waited for signals on the reopening of the Strait of Hormuz. The closure of Hormuz and Bab al-Mandab has removed routes carrying close to 27% of global energy supply, and MCX crude for 19 August delivery sits near Rs 7,800 after a weekly high of Rs 8,075. India imports more than 85% of its crude, making the rupee unusually exposed to the blockade.",
+      "source_name": "FXStreet",
+      "source_url": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Murmu and Modi lead tributes to Atal Bihari Vajpayee on his death anniversary",
+      "body": "President Droupadi Murmu and Vice President Radhakrishnan laid floral tributes at the Sadaiv Atal memorial on Sunday, joined by the Prime Minister, Defence Minister Rajnath Singh, Lok Sabha Speaker Om Birla, BJP national president Nitin Nabin and Delhi Chief Minister Rekha Gupta. Modi described Vajpayee as an extraordinary statesman and returned to his themes of good governance and public welfare.",
+      "source_name": "Organiser",
+      "source_url": "https://organiser.org/2026/08/16/375509/bharat/atal-bihari-vajpayee-death-anniversary-president-murmu-pm-modi-pay-homage-recalls-the-legacy-of-good-governance/"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Kharge and Rahul Gandhi skip the Red Fort ceremony again over seating protocol",
+      "body": "The Congress president hoisted the flag at the party's Indira Bhawan headquarters instead of attending the Independence Day event, repeating last year's absence in a dispute over where opposition leaders are seated. The BJP responded by accusing the Congress leadership of disrespecting the national song at the Red Fort event. The exchange has kept protocol, rather than policy, at the centre of the post-Independence Day argument.",
+      "source_name": "Outlook India",
+      "source_url": "https://www.outlookindia.com/national/bjp-accuses-congress-sonia-gandhi-of-disrespecting-national-song-at-i-day-event"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Padikkal makes 167 as rain limits Galle to 43 overs and India close on 460 for 9",
+      "body": "The opener converted his overnight 131 into 167 on a washed-out second day, with Dhruv Jurel adding 51 and Rohit Rahul earlier making 82. Prabath Jayasuriya took 4 for 109 and Keshara Nuwantha 3 for 175, the pair sharing six of the seven wickets to fall. Only 43 overs were possible, leaving India well placed but short of time in the first Test of the series.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/match-report"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "No fresh Indian technology announcement lands, leaving Dholera's 2028 timeline as the standing position",
+      "body": "Nothing new emerged from the semiconductor or space programmes in the past 48 hours beyond ISRO's Vikram microprocessor, reported on 16 August. The standing position is that Tata Electronics will run India's first fab at Dholera on a 90-nanometre process, with technology minister Ashwini Vaishnaw guiding commercial operations to mid-2028 rather than the end of 2026 as once targeted. New Delhi has approved Rs 1.275 lakh crore in state aid under Semicon 2.0 covering design, fabrication, equipment and packaging.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/companies/news/tata-electronics-to-launch-india-s-first-chip-fab-using-older-technology-126071700161_1.html"
+    }
+  ]
+}
