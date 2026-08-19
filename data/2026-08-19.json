@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-19",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Trump orders envoys to stop talking to Iran as oil hits its highest since July",
+      "body": "A day after the 60-day US-Iran understanding lapsed without a deal, Trump told his envoys to halt contacts with Tehran and said no talks are underway or scheduled. Iran's parliament speaker accused Washington of squeezing Tehran for further concessions. Crude climbed to its highest level since July as hopes of a negotiated reopening of the Strait of Hormuz receded.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Republicans grow uneasy about the Iran war as it nears six months before the midterms",
+      "body": "Republican lawmakers are voicing impatience with a conflict that has run almost six months without a settlement, worried it will weigh on their prospects in November. Trump's response has been to disengage rather than escalate diplomacy, halting envoy-level contacts. The party's discomfort marks the first sustained domestic political pressure on the White House over the war.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/18/politics/republicans-iran-war-donald-trump"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Ukraine fires almost 800 drones at Russia as a missile strike kills 10 in Kharkiv region",
+      "body": "Kyiv launched close to 800 drones towards Moscow and other targets, its second mass salvo in three days and among the largest of the war. A Russian missile strike on a village in the north-eastern Kharkiv region killed at least 10 people and wounded eight, demolishing homes. The two sides are locked in an escalating exchange of long-range strikes with no negotiations in prospect.",
+      "source_name": "The Washington Times",
+      "source_url": "https://www.washingtontimes.com/news/2026/aug/18/ukraine-aims-drone-attack-moscow-russian-missiles-kill-10-ukrainian/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Board of Peace tells Netanyahu Hamas must disarm fully before any Israeli withdrawal",
+      "body": "Trump's Board of Peace met Netanyahu in Jerusalem and set complete Hamas disarmament as the condition for any pullback of Israeli forces inside Gaza, saying Hamas has agreed to disarm and halt military activity. Separately, Ugandan and Burundian representatives visited Rafah as talks continue on contributing troops to a Gaza stabilisation force. Netanyahu had earlier rejected the 15-point ceasefire plan.",
+      "source_name": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog-august-18-2026/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "OpenAI launches a separate ChatGPT for teenagers with tighter safety limits",
+      "body": "The under-18 experience began rolling out globally on Tuesday across free and paid personal plans, with full availability in Australia from 8 September. It adds guardrails around self-harm, eating disorders, violence and explicit content, bars romantic language, and instructs the model not to claim feelings or consciousness. Parents get Quiet Hours, Study Mode scheduling and safety notifications.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Stripe closes its purchase of AI model gateway OpenRouter for more than $7 billion",
+      "body": "The payments company finalised the deal for OpenRouter, which routes requests across more than 400 models from OpenAI, Anthropic, Google, Meta and DeepSeek and claims 8 million users. The price is roughly 5.4 times the $1.3 billion valuation OpenRouter carried in its Series B three months ago. It gives Stripe a metering and billing layer for AI traffic alongside its payments business.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Chip stocks lead a US selloff as bond yields stay near multi-year highs",
+      "body": "A gauge of semiconductor firms fell 5.5% and the Nasdaq 100 dropped 1.7% as anxiety over inflation and government debt kept yields elevated. Ten-year Treasury yields hovered near their highest levels since early 2025. Oil settled around $85 with Washington and Tehran deadlocked over the Strait of Hormuz.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates"
+    },
+    {
+      "tag": "Science",
+      "headline": "DR Congo Ebola outbreak passes 2,325 deaths with 101 new cases in a single day",
+      "body": "Data to 15 August put the Bundibugyo virus outbreak at 4,945 confirmed cases and 2,325 deaths, up 101 cases and 53 deaths in a day. Most new cases were in Ituri (89), with others in North Kivu, Haut Uele and Tshopo; 730 patients are hospitalised in isolation and 1,040 have recovered. The outbreak has now surpassed the 2,299 deaths of the 2018-2020 epidemic to become the country's deadliest.",
+      "source_name": "ECDC",
+      "source_url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+    },
+    {
+      "tag": "Science",
+      "headline": "Researchers pair synthetic DNA with a semiconductor to build a memory device using 100x less power",
+      "body": "A team backed by the US National Science Foundation, NIH, Penn State and the University of Minnesota built a bio-hybrid device that stores and processes information in the same place. DNA holds roughly 215 million gigabytes per gram, and the approach targets the energy cost of moving data between memory and processor. The work is aimed at more efficient data centres and AI hardware rather than near-term products.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Champions League play-off first legs open with Fenerbahce and Lyon drawing 1-1",
+      "body": "The play-off round began on Tuesday with seven league-phase places at stake across the two legs. Fenerbahce and Lyon finished level at 1-1 in Istanbul, leaving the tie open ahead of the return in France. The remaining first legs are played on Wednesday, with second legs on 25 and 26 August.",
+      "source_name": "UEFA",
+      "source_url": "https://www.uefa.com/uefachampionsleague/video/highlights/02a8-216161421805-43e8554af1cf-1000--champions-league-play-off-first-leg-highlights-fenerbahc/"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Climate",
+      "headline": "Red alert for Bengal, Odisha and Jharkhand as the Bay depression moves inland",
+      "body": "The depression that formed over the northern Bay tracked west-northwest and sat over Jharkhand and adjoining Gangetic West Bengal on Tuesday. IMD warned isolated places could get more than 20 cm of rain in 24 hours, with Kolkata's regional centre issuing a severe red alert for Bankura, West Midnapore and Jhargram. Eighteen states including Delhi-NCR were under some form of weather warning.",
+      "source_name": "Down To Earth",
+      "source_url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-heavy-rains-trigger-red-alert-in-bengal-and-odisha-delhi-ncr-among-18-states-under-weather-warning"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Orange alert for the northern hills with a week of heavy rain forecast for Uttarakhand",
+      "body": "IMD placed Jammu and Kashmir, Himachal Pradesh and Uttarakhand under an orange alert, forecasting widespread rain over Himachal from 18 to 22 August and over Uttarakhand from 18 to 24 August. Isolated very heavy falls were expected in Himachal on Tuesday and Uttarakhand on Tuesday and Wednesday. Forecasters flagged landslide, flash flood and travel disruption risk across mountain corridors.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/india/2026/08/18/bengal-depression-weather-alert-india-monsoon-heavy-rain-north-india-flash-flood-warning-imd-monsoon-rains.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Supreme Court declines to replace hanging as the method of execution",
+      "body": "The court dismissed a petition seeking to end execution by hanging and substitute a less painful method such as intravenous lethal injection. It upheld the existing practice while clarifying that the government remains free to have an expert panel examine alternatives. The ruling leaves the question with the executive rather than the judiciary.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-augsut-18-2026-546349"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex falls a third straight session as crude and West Asia tensions weigh",
+      "body": "The Sensex closed 492.70 points lower at 77,235.46 and the Nifty 50 shed 132.75 points to 24,154.90. The rupee eased again to around 95.69 against the dollar. Elevated crude prices, driven by the US-Iran deadlock over the Strait of Hormuz, remain the main drag on Indian equities.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-18-august-nse-bse-sensex-today-nifty-gift-nifty-milky-mist-ipo-listing-share-market-today-126081800082_1.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Semicon India 2026 set for 17-19 September in Delhi under the ISM 2.0 framework",
+      "body": "The fifth edition, themed Silicon to Systems: Building the Ecosystem, will run at Yashobhoomi in Dwarka and is jointly organised by SEMI and the India Semiconductor Mission. ISM 2.0 widens government support beyond fabs to chip design, advanced packaging, equipment, materials, R&D and talent. Prime Minister Modi is expected to inaugurate the event on 17 September.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/industry/news/semicon-india-2026-delhi-semiconductor-ecosystem-ism-projects-126081800629_1.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "MeitY says five to six chip projects should reach commercial production by the end of 2026",
+      "body": "MeitY Secretary S Krishnan said assembly and test plants run by Micron, Kaynes Semicon and CG Semi are already in commercial production and exporting. India expects to add five to eight semiconductor facilities over the next seven to eight years. The statement is the clearest official timeline since the Dholera fab's 2028 target was reaffirmed.",
+      "source_name": "ANI",
+      "source_url": "https://aninews.in/news/business/indias-semiconductor-ecosystem-set-for-expansion-5-6-projects-may-go-live-by-2026-end-meity-secy-s-krishnan20260818145830/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "India need six wickets on the final day in Galle after setting Sri Lanka 372",
+      "body": "Rishabh Pant's 66 off 69, with Devdutt Padikkal's 44 and KL Rahul's 35, took India to 193 in the second innings and a target of 372. Sri Lanka closed day four on 84 for four, still 288 short on a pitch turning sharply. India need six wickets on Wednesday to go 1-0 up in the series.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.espncricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/match-report"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Loh Kean Yew opens his world championship campaign with a straight-games win in Delhi",
+      "body": "The Singaporean beat Canada's Brian Yang 21-14, 22-20 in the men's singles first round on Tuesday. Other first-round results included Teh Jia Heng over Fabio Caponio and Lin Hsiang-Ti over Anna Tatranova. The championships are being held in New Delhi.",
+      "source_name": "Olympics.com",
+      "source_url": "https://www.olympics.com/en/news/bwf-badminton-world-championships-2026-loh-yean-yew-wins-first-round-match-in-india"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Parliament sits in a short special session with the Delimitation Bill on the agenda",
+      "body": "The government convened a three-day sitting from 16 to 18 August to take up pending legislation including the Delimitation Bill and the Women's Reservation Bill, after the monsoon session's scheduled 13 August close. Proceedings were repeatedly disrupted by the government-opposition standoff, and the Lok Sabha passed the Taxation (Amendment) Bill without discussion. The Foreign Contribution (Regulation) Amendment Bill also remains on the list.",
+      "source_name": "Deccan Herald",
+      "source_url": "https://www.deccanherald.com/india/parliament-monsoon-session-2026-live-updates-parliament-set-for-stormy-day-amid-govt-oppn-standoff-delimitation-bill-special-session-women-reservation-bill-question-hour-opposition-protest-4101112"
+    },
+    {
+      "tag": "Business",
+      "headline": "Lending technology startup Ezolv raises $12.5 million in a Norwest-led Series A",
+      "body": "The Mumbai company, founded by former Kissht executives, drew participation from Vertex Ventures Southeast Asia and India and existing backer 3one4 Capital. It plans to spend the money on AI across sales, risk assessment, underwriting and collections. The round is one of the larger early-stage AI cheques in Indian fintech this month.",
+      "source_name": "YourStory",
+      "source_url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-18-2026"
+    }
+  ]
+}
