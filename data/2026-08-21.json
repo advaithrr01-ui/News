@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-21",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Russian missile and drone barrage kills at least 16 in Kyiv region",
+      "body": "A large overnight Russian attack on Kyiv and the surrounding region killed at least 16 people and wounded more than 30 on Thursday, one of the deadliest single strikes on the capital this year. Zelenskyy renewed his appeal to partners for additional Patriot interceptors, saying air defence stocks are the binding constraint on protecting cities. The strike follows a week in which Ukraine launched some of its largest drone salvoes of the war into Russian territory.",
+      "source_name": "France 24",
+      "source_url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Trump pivots to economic warfare against Iran after military campaign fails to force talks",
+      "body": "Trump promised what he called the most crushing economic operation ever taken against any country, four days after the 60-day US-Iran negotiating window expired with no deal on the Strait of Hormuz or frozen Iranian funds. The UAE has suspended all trade and financial transactions with Iran. The shift follows months of strikes that neither brought Tehran to the table nor ended its blockade of the strait, and Brent has stayed above $90.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/20/politics/trump-iran-war-strait-of-hormuz"
+    },
+    {
+      "tag": "Economy",
+      "headline": "US national debt passes $40 trillion, months ahead of forecasts",
+      "body": "Treasury daily data showed the federal debt reached $40.05 trillion on 18 August, just five months after crossing $39 trillion in March. Forecasters had not expected the milestone until later in the year; lost revenue from Trump's invalidated tariffs accelerated it. The debt has more than doubled since 2017, and the news lands as 30-year yields sit near their highest levels since 2007.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t"
+    },
+    {
+      "tag": "Business",
+      "headline": "Evergrande founder Hui Ka Yan sentenced to life in prison for fraud and bribery",
+      "body": "A Chinese court sentenced Hui Ka Yan to life on Thursday and ordered the confiscation of his personal property, after he pleaded guilty in April to eight charges including fundraising fraud and fraudulently issuing securities. His two sons and more than 50 executives and associates received terms of 22 months to 18 years, and the group was fined 8.82 billion yuan. Evergrande collapsed in 2021 with more than $300 billion in liabilities.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/20/business/china-evergrande-founder-jailed-intl-hnk"
+    },
+    {
+      "tag": "Defence",
+      "headline": "North Korea fires about 10 short-range ballistic missiles hours after Trump floats a Kim meeting",
+      "body": "The launches came from the Pyongyang region around 5pm local time on Thursday, with the missiles flying roughly 300 km into eastern waters, South Korea's military said. They followed Trump's claim that he plans to meet Kim Jong Un later this year, and came a day after Pyongyang dismissed the US decision to scale back joint drills with South Korea. It is the most substantial North Korean launch since that drawdown was announced.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Israel opens its first criminal investigations into troop conduct in Gaza",
+      "body": "The military said it is investigating the killing of five-year-old Hind Rajab and her family in January 2024 and the deaths of 15 Palestinian paramedics, acknowledging for the first time that its troops fired on the vehicle carrying Rajab. The IDF had previously said its forces were not present near the car or within firing range. Israeli strikes killed 10 more Palestinians in Gaza the same day.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Washington moves to close the cloud loophole in Nvidia's China chip controls",
+      "body": "Chinese AI firms are renting access to restricted Nvidia hardware through data centres in Southeast Asia, since US export rules govern who owns the physical chips rather than who can log into them remotely. Lawmakers are weighing legislation that would give the government authority over remote cloud access to controlled technology. Enforcement remains the hard part, as the arrangements sit outside US jurisdiction.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/amp/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "Moderna and Merck say personalised mRNA vaccine cut melanoma recurrence in phase 3 trial",
+      "body": "The trial enrolled 1,137 patients with surgically removed stage 2b to 4 melanoma, randomised to Keytruda alone or Keytruda plus up to nine doses of intismeran, a vaccine built from mutations in each patient's own tumour. Interim results met both the primary endpoint of reduced recurrence and the secondary endpoint of preventing spread, with no new safety signals. It is the strongest late-stage evidence yet for individualised mRNA cancer vaccines.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/19/health/moderna-merck-mrna-melanoma-vaccine"
+    },
+    {
+      "tag": "Science",
+      "headline": "Researcher proposes folding Australopithecus and Paranthropus into the genus Homo",
+      "body": "Writing in the American Journal of Biological Anthropology, Ian Towle of Monash University argues that roughly five million years of hominin fossils should sit in a single genus, because traits once used to separate them, chiefly brain size and tool use, no longer hold. Paranthropus fossils have since 2023 been found alongside 2.6-million-year-old tools in Kenya and Ethiopia. The proposal would resolve the fact that Australopithecus is not a true clade, at the cost of losing useful ecological distinctions.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Sabalenka and Zverev knocked out of the Cincinnati Open in the last 16",
+      "body": "Top seed Aryna Sabalenka, the defending champion, lost 6-1, 6-4 to Elena Rybakina, while men's top seed Alexander Zverev went out to Tommy Paul. Coco Gauff came through to the quarter-finals. The tournament is the last significant hard-court test before the US Open.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Politics",
+      "headline": "Tamil Nadu CM Vijay asks Centre for a legislative guarantee that no state loses Lok Sabha seats",
+      "body": "At his first Southern Zonal Council meeting, chaired by Amit Shah in Chennai on Thursday, Chief Minister C Joseph Vijay said southern states fear the Delimitation Bill, 2026 will cut their share of Parliament as a penalty for successful population control, and asked for that assurance written into law. He also pressed for a NEET exemption, seeking to fill state-quota medical seats on Class 12 marks. The Bill would raise the Lok Sabha from 543 to 850 seats using the 2011 Census.",
+      "source_name": "ANI",
+      "source_url": "https://aninews.in/news/national/politics/tamil-nady-cm-vijay-seeks-legislative-assurance-from-centre-against-loss-of-parliamentary-presence-in-delimitation-raises-neet-issue20260820145126/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Amit Shah begins a three-day Bengal visit centred on the Siliguri corridor",
+      "body": "The Home Minister landed at Bagdogra on Thursday evening and travels to the SSB Frontier headquarters in Siliguri on Friday to lay foundation stones for border security projects and review operations. The corridor, the narrow strip linking the northeast to the rest of India near the Nepal, Bhutan and Bangladesh borders, has drawn steady attention. It is his second Bengal tour in barely a month.",
+      "source_name": "The Siasat Daily",
+      "source_url": "https://www.siasat.com/amit-shah-to-visit-bengal-for-3-days-from-thursday-3527658/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex snaps a four-day losing run with a 628-point jump",
+      "body": "The Sensex closed Thursday at 77,537.72, up 628.04 points or 0.82%, and the Nifty added 153.53 points to 24,231.85, led by IT and financials. The recovery followed the US Treasury's plan to double buybacks of longer-dated debt, which pulled global bond yields off multi-year highs. Crude near $90 and the Hormuz standoff remain the main overhang.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-august-20-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-tempsens-instruments-ipo-126082000087_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Shiprocket lists at a 35% premium after a near 100-times subscribed IPO",
+      "body": "The logistics software firm opened at Rs 131 on the NSE against an issue price of Rs 97 on Wednesday, and later traded as high as Rs 144. The Rs 1,617 crore offer combined a Rs 885 crore fresh issue with Rs 732 crore of secondary sales. It is one of the stronger debuts in a year when several Indian tech listings have opened flat or below issue.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/shiprocket-shares-make-a-solid-debut-list-at-35-premium-over-ipo-price-126081900245_1.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Centre tells Supreme Court the UGC equity regulations are being reconsidered",
+      "body": "The government said the 2026 rules on caste discrimination in higher education are under review, and the court adjourned the challenges for four weeks, directing the UGC to file a comprehensive counter-affidavit. The regulations have been in abeyance since 29 January, when the bench called them prima facie vague, capable of misuse and potentially divisive. They were drafted in response to a 2019 petition by the mothers of Rohith Vemula and Payal Tadvi.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/ugc-equity-regulations-2026-being-reconsidered-centre-tells-supreme-court-546621"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "India ties its Semicon 2.0 chip push to the IndiaAI compute build-out",
+      "body": "More than 45,000 GPUs are now available through the IndiaAI Mission's shared compute pool, with 237 projects having drawn 9.32 million subsidised GPU hours by August, and 20 indigenous foundation-model proposals selected from 506 applications. Three of the twelve fabs and packaging plants approved under India Semiconductor Mission 1.0 are in commercial production. Semicon 2.0, approved in July with a Rs 1.275 trillion outlay, extends support to equipment, materials and R&D.",
+      "source_name": "Digital Watch Observatory",
+      "source_url": "https://dig.watch/updates/india-semiconductor-ai-semicon-2-0-indiaai"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD flags heavy rain for Uttar Pradesh, Madhya Pradesh and the western Himalaya",
+      "body": "The department has warned of isolated very heavy rainfall over east Madhya Pradesh on Friday, with heavy falls expected across west Uttar Pradesh, Uttarakhand, Himachal Pradesh and Jammu and Kashmir. Konkan, Goa and parts of the south peninsula face scattered to widespread showers with thunderstorm and lightning warnings. The monsoon engine over the Bay of Bengal remains active, with east UP forecast to see widespread rain from 24 to 26 August.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/imd-weather-forecast-august-21-heavy-rain-alert-issued-for-up-mp-check-rainfall-prediction-across-regions-8506118/"
+    },
+    {
+      "tag": "Economy",
+      "headline": "US trade team due in Delhi from 25 August for a sixth round of talks",
+      "body": "Commerce Secretary Rajesh Agarwal said both sides remain committed to the framework agreed in February, which cut the effective US tariff on Indian goods from close to 50% to 18%. Fresh tariff developments in Washington, including the revenue hit from invalidated duties, have added uncertainty to the bilateral trade agreement negotiations. The visit would be the sixth formal round.",
+      "source_name": "India-West",
+      "source_url": "https://indiawest.com/india-us-stay-engaged-on-trade-deal-as-tariff-issues-mount/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Suthar takes ten as India win the Galle Test by 165 runs",
+      "body": "India closed out the first Test on the final day, bowling Sri Lanka out for 206 chasing 372, after posting 462 and 193. Left-arm spinner Manav Suthar finished with ten wickets in the match, and Devdutt Padikkal's 167 in the first innings set up the 178-run lead. It is India's first Test win of the tour.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/match-report"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Odisha moves to cancel driving licences after app-cab protest turns violent in Bhubaneswar",
+      "body": "The state said licences of drivers involved will be cancelled and losses recovered from those responsible, after a protest by Ola, Uber and Rapido drivers over a 30-point charter of demands escalated; 113 people were arrested, 354 vehicles seized and 13 police personnel injured. Police demolished an auto stand near Master Canteen Square and more than 400 auto permits are under scrutiny. The drivers want fares of Rs 12 per km by day and Rs 15 at night, against rates last fixed in 2008.",
+      "source_name": "OdishaTV",
+      "source_url": "https://odishatv.in/odisha/bhubaneswar-violence-ola-uber-rapido-drivers-licenses-to-be-cancelled-auto-stand-demolished-12398833"
+    }
+  ]
+}
