@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-22",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Russian double-tap drone strike on Kryvyi Rih shopping centre kills 15",
+      "body": "Russian drones hit a busy shopping centre in Kryvyi Rih on Thursday evening, then struck again as rescuers arrived. Regional officials put the toll at 15 dead and as many as 130 wounded, including 23 children. The city, President Volodymyr Zelenskyy's hometown, sits about 60km from the front line and has been struck repeatedly through the war.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/21/europe/kryvyi-rih-shopping-center-strike-intl"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Trump promises an economic D-Day against Iran as crude nears $94",
+      "body": "With the Iran war approaching six months and US stocks of key munitions running down, the administration is shifting to a financial campaign, threatening sanctions on any country that trades with Tehran. Global crude rose more than 2% on Friday to about $94 a barrel, its highest since late July. Foreign Minister Abbas Araghchi called the threat a diversion that would bring only further defeat.",
+      "source_name": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com/national/2026/08/21/iran-war-trump-sanctions-economic-fury-oil/194c982a-9d15-11f1-9cc4-2dc9b46e2d5c_story.html"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Ukraine strikes Lukoil's Perm refinery deep inside Russia's Urals",
+      "body": "Zelenskyy said Ukrainian long-range weapons hit Lukoil's refinery at Perm overnight, one of the deepest strikes yet into Russian territory. The attack continues a campaign against refining and export infrastructure intended to squeeze the revenue funding the war. Ukrainian forces also reported hitting a drone launch site near occupied Donetsk and a logistics depot in Crimea.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/ukraine-strikes-major-oil-refinery-deep-inside-russia"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Israeli soldiers and settlers kill two Palestinians in separate West Bank incidents",
+      "body": "A Palestinian teenager was shot dead near Hebron and a former Palestinian Authority colonel was killed in Jenin, in incidents a day apart. The IDF said the Hebron shooting, which followed a confrontation with ultra-Orthodox hikers near Sa'ir, is under review. An internal Israeli military assessment reported this week warned the West Bank is close to broader escalation as settler attacks and settlement expansion drive displacement.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents"
+    },
+    {
+      "tag": "Politics",
+      "headline": "US Supreme Court lets Trump's White House ballroom construction proceed",
+      "body": "The court ruled on Friday that work on the ballroom being built on the site of the demolished East Wing can continue for now without congressional approval. The project is estimated to cost taxpayers at least $300 million, despite repeated assurances from the president that it would not. The ruling is interim and leaves the underlying dispute over congressional authority unresolved.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Anthropic says Claude designed working protein binders at twice the industry hit rate",
+      "body": "In a study run with wet-lab partners Adaptyv Bio and Twist Bioscience, Claude generated 1,320 candidate binders against 15 drug-relevant targets, of which 354 were confirmed to bind. The 26.8% average hit rate compares with a 10-15% industry norm, and the model found binders for 14 of the 15 targets, reaching 80% against TREM2. It failed entirely on maltose-binding protein, where none of 90 designs worked.",
+      "source_name": "Anthropic",
+      "source_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Nvidia begins shipping H200 chips into mainland China",
+      "body": "Nvidia has started delivering H200 accelerators to Chinese buyers after Washington cleared exports, reopening a market the company had written out of its guidance. ByteDance and Tencent are each reported to have received roughly 10,000 units in recent weeks, against a US ceiling of 100,000 chips with conditions on local deployment. The company separately told The Information it will ship small volumes of a China-specific AI chip by year-end.",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-lands-major-china-breakthrough-172520755.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Wall Street closes the week higher with Jackson Hole in view",
+      "body": "The Dow added 517.80 points, or 0.98%, to 53,277.01 on Friday, while the S&P 500 and Nasdaq each rose 0.43%, to 7,674.37 and 26,180.45. Health care led the week, up more than 4% after Moderna and Merck's late-stage mRNA melanoma result. Attention now turns to Fed Chair Kevin Warsh's Jackson Hole speech next week, with bond yields still elevated and no rate decision due this month.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "Hidden magnetism inside atomic nuclei explains a decades-old gamma ray puzzle",
+      "body": "Researchers at the Facility for Rare Isotope Beams, with Lawrence Livermore National Laboratory, traced the unexpected abundance of low-energy gamma rays from certain nuclei to magnetic transitions in which protons and neutrons flip their internal magnetic orientation. The mechanism had been suspected but not measured directly. It should sharpen models of nuclear reactions on Earth and of heavy-element formation in supernovae and neutron star mergers.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Kate Douglass breaks the 50m freestyle world record twice in a day at Pan Pacs",
+      "body": "The American swam 23.49 seconds in the morning heats to reclaim the mark from training partner Gretchen Walsh, then took the final in 23.19. Walsh finished second in 23.74 and Australia's Meg Harris third in 23.89. The pair have now traded the record three times since June, when Douglass first set it at 23.59.",
+      "source_name": "Olympics.com",
+      "source_url": "https://www.olympics.com/en/news/pan-pacific-swimming-championships-2026-u-s-star-kate-douglass-breaks-50m-freestyle-world-record-twice-in-one-day"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Politics",
+      "headline": "Manipur keeps schools and colleges shut through Saturday as NRC protests spread",
+      "body": "The state government ordered every school, college and university closed from 20 to 22 August, citing the law-and-order situation. The unrest follows a 48-hour strike called by the Campaign for Just and Fair Delimitation demanding the National Register of Citizens be updated before the 2027 Census, with effigy burnings, rallies and road blockades across the valley districts. The group has since begun a boycott of state and central government offices, exempting essential services.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/manipur-shuts-schools-colleges-for-3-days-amid-nrc-delimitation-protest-126081901593_1.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Southern chief ministers press Amit Shah on delimitation and river water at zonal council",
+      "body": "The 31st Southern Zonal Council met at Mahabalipuram under the Union Home Minister, with Tamil Nadu's C. Joseph Vijay, Andhra Pradesh's Chandrababu Naidu, Karnataka's D.K. Shivakumar and Kerala's V.D. Satheesan attending. Inter-state river water sharing, parliamentary delimitation and tax devolution dominated the agenda. Shah described the South as a major growth engine and called for faster resolution of water disputes.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/india/amit-shah-led-zonal-council-meet-sees-tamil-nadu-cm-raise-delimitation-concerns/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "India and Japan sign a maritime security arrangement during Koizumi's first Delhi visit",
+      "body": "Rajnath Singh and Japanese Defence Minister Shinjiro Koizumi signed a Memorandum of Arrangement on maritime security cooperation after talks in New Delhi, alongside discussions on defence equipment and technology under Make in India. Koizumi also visited Western Naval Command in Mumbai. The two sides agreed to accelerate work towards a fourth Japan-India 2+2 foreign and defence ministerial in Tokyo this year.",
+      "source_name": "PIB",
+      "source_url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260820-india-pib01.htm"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "India hosts the 12th BRICS communications ministers meeting after a week of ICT talks in Pune",
+      "body": "The Department of Telecommunications convened the ministerial on 21 August, closing the BRICS ICT track it ran in Pune from 17 to 21 August. The sessions covered digital public infrastructure, telecom standards and cross-border data cooperation among member states. India chairs the grouping's communications workstream this year ahead of the wider BRICS summit.",
+      "source_name": "PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299890&reg=48&lang=1"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex and Nifty end flat after a rangebound Friday session",
+      "body": "The Sensex closed up 3.11 points at 77,540.83 and the Nifty gained 20.15 points to 24,252.00, giving up the momentum of Thursday's rebound. Metal and realty stocks advanced while IT, FMCG, auto, media and pharma weighed on the indices. Traders cited elevated crude, renewed pressure in global bond yields and West Asia tensions as reasons for caution.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-aug-21-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-tempsens-instruments-ipo-share-market-today-126082100079_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Atomberg files for a Rs 450 crore IPO as early backers take partial exits",
+      "body": "The fan and appliance maker lodged its draft red herring prospectus on Friday for a fresh issue of up to Rs 450 crore plus an offer for sale of about 7.65 crore shares. A91 Partners, Temasek and Jungle Ventures are among the investors selling down. No venture funding rounds closed in the Indian startup ecosystem on the day.",
+      "source_name": "StartupTalky",
+      "source_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-21-august-2026/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Supreme Court holds the UP Gangsters Act creates no standalone offence",
+      "body": "A bench ruled that the Uttar Pradesh Gangsters Act in its present form does not establish an independent criminal offence, and quashed proceedings against two advocates. It held that a gang chart drawn up under the rules cannot create penal liability where the parent statute does not. The same day the court also quashed SC/ST Act proceedings against a school manager, finding the alleged caste remarks were not shown to have occurred in public view.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-21-2026-546909"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of very heavy rain over east Madhya Pradesh through the weekend",
+      "body": "The department flagged isolated heavy to very heavy rainfall over east Madhya Pradesh on 21 and 22 August, with heavy rain also expected in west Uttar Pradesh, Uttarakhand, Himachal Pradesh and Jammu and Kashmir. Konkan, Goa and parts of the south peninsula were forecast scattered to widespread showers with thunderstorm and lightning warnings. The alerts come as Assam continues recovery work from floods that have killed about 100 people this monsoon.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/imd-weather-forecast-august-21-heavy-rain-alert-issued-for-up-mp-check-rainfall-prediction-across-regions-8506118/"
+    },
+    {
+      "tag": "Science",
+      "headline": "IIT Bhubaneswar team predicts a rare form of altermagnetism in a three-atom-thick material",
+      "body": "Physicists at IIT Bhubaneswar, working with Virginia Commonwealth University, calculated that a monolayer of iron trichloride should display i-wave altermagnetism, among the rarest variants of the magnetic phase identified only in recent years. The work, led by Manish Kumar Mohanta, is published in Nano Letters. If confirmed experimentally it would be relevant to high-density memory, spin-based transistors and terahertz communication.",
+      "source_name": "Prameya News",
+      "source_url": "https://www.prameyanews.com/iit-bhubaneswar-researchers-discover-rare-magnetic-state-in-2d-material-for-faster-energy-efficient-electronics"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Satwik and Chirag exit the world championships in Delhi as Treesa and Gayatri reach the semis",
+      "body": "Satwiksairaj Rankireddy and Chirag Shetty lost their men's doubles quarter-final 18-21, 9-21 to China's Liang Weikeng and Wang Chang. Treesa Jolly and Gayatri Gopichand came from a game down to beat China's Jia Yi Fan and Zhang Shu Xian 16-21, 21-15, 21-13 in the women's doubles. Semi-finals across all five disciplines are scheduled for Saturday at the Indira Gandhi Indoor Stadium.",
+      "source_name": "The Sunday Guardian",
+      "source_url": "https://sundayguardianlive.com/sports/bwf-world-championships-2026-results-latest-satwiksairaj-rankireddy-and-chirag-shetty-suffer-quarterfinal-defeat-to-chinese-pair-266562/"
+    }
+  ]
+}
