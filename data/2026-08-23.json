@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-23",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "US imposes 50% tariffs on $20 billion of Canadian goods after talks collapse",
+      "body": "The tariffs took effect just after midnight on Saturday, hitting about 5% of what Canada ships south each year, from dairy and alcohol to cement and hockey equipment. Prime Minister Mark Carney said Canada would match them dollar for dollar from 8 September, and no further talks are scheduled. The two countries traded $880 billion in goods and services last year, and formal talks on renewing the USMCA with Canada have not begun.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran vows it will not submit as Washington readies its toughest sanctions package",
+      "body": "A close ally of Iran's supreme leader said Trump's rhetoric stems from desperation and that Tehran will not capitulate, while the foreign ministry called the threatened measures a return to colonialism. Treasury Secretary Scott Bessent will set out the new sanctions at a press conference on Monday, having said the combination of a port blockade and the sanctions would collapse the government. Shipping through the Strait of Hormuz remains at about 20% of its pre-war average, though Iranian state media said Iraqi tankers would now be allowed through.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/22/world/live-news/iran-war-trump"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Ukrainian drones set fire to an Ozon logistics hub in Russia for the first time",
+      "body": "FP-1 drones struck the 135,000 square metre warehouse at Chapayevsk in Samara Oblast overnight on Saturday, forcing the evacuation of more than 500 staff within minutes. Operations at the site, one of the largest in the Volga region and built at a cost of about 5 billion roubles, have been suspended indefinitely. The strike extends Kyiv's campaign against Russian e-commerce distribution from Wildberries to its nearest rival; a refinery at Novokuybyshevsk in the same region was also hit.",
+      "source_name": "Ukrainska Pravda",
+      "source_url": "https://www.pravda.com.ua/eng/news/2026/08/22/8049776/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Russia says it will hear new ideas on Ukraine if they match Putin's goals",
+      "body": "Deputy Foreign Minister Sergey Ryabkov said Moscow is open to proposals that reflect what he called realities on the ground. The framing leaves Russia's existing demands intact: Ukraine handing over the whole of Donbas, demilitarising and abandoning NATO membership before any ceasefire. The comments came in a week when Russian ballistic missiles again struck Kyiv.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Wall Street rallies on Friday but the major indexes still close the week lower",
+      "body": "The Dow rose 517.80 points, or 0.98%, to 53,277.01, while the S&P 500 and Nasdaq each added 0.43% to finish at 7,674.37 and 26,180.45. All three still posted weekly losses after a bond sell-off pressured risk assets. Bitcoin ended the week up 22%, lifting Robinhood almost 14% and Coinbase 8%.",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Nvidia opens early talks with Korean inference chip designer Rebellions",
+      "body": "Jensen Huang met Rebellions co-founder Sunghyun Park at Nvidia's Santa Clara headquarters this week to discuss options ranging from a technical partnership to an investment or outright acquisition. Founded in 2020, Rebellions builds neural processing units for data centre inference and has raised about $850 million from backers including SK Hynix, Samsung Ventures and Arm, at a valuation near $2.3 billion. The company said on 19 August that a listing on Korea's main exchange was its top priority, and Bloomberg cautioned the talks are preliminary.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Nvidia backs Cloverleaf Infrastructure as power becomes the AI bottleneck",
+      "body": "Nvidia announced the partnership on Friday with Cloverleaf, which sits between utilities and data centre developers and secures grid connections and power for new sites. Terms were not disclosed, though the investment is expected to run into the hundreds of millions of dollars. It follows Nvidia's move last week to back up to $105 billion in financing for an OpenAI data centre in Ohio.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+    },
+    {
+      "tag": "Science",
+      "headline": "Six 30-second sprints reshaped the blood more than 90 minutes of moderate exercise",
+      "body": "Researchers found that a short sprint protocol altered close to a quarter of the blood proteins they measured and shifted more than 200 metabolites. A 90-minute moderate session, far longer in duration, produced a much smaller molecular signature. The finding sharpens the case that exercise intensity, not just total time, drives the biochemical response.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm"
+    },
+    {
+      "tag": "Science",
+      "headline": "At-home bowel cancer screening linked to a 43% lower risk of dying from the disease",
+      "body": "Long-term data covering more than 376,000 people in Sweden found that those who took part in colorectal cancer screening had a 43% lower risk of death from it. The test involved is a simple stool sample collected at home. Participation rates, rather than the technology, remain the main constraint on the benefit at population scale.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Newly promoted Hull City beat Manchester United 2-0 on the Premier League's opening day",
+      "body": "Semi Ajayi bundled in a rebound from a corner on 17 minutes and Nobel Mendy headed a Regan Slater free kick past Senne Lammens on 38 to settle it at the MKM Stadium. Both goals came from set pieces against a United side that had started brightly, with Youri Tielemans and Bruno Fernandes combining inside the first three minutes. Everton beat Crystal Palace 2-0, Ipswich beat Sunderland 2-1 and Leeds won 1-0 at Nottingham Forest.",
+      "source_name": "NBC Sports",
+      "source_url": "https://www.nbcsports.com/soccer/live/premier-league-live-updates-score-goals-highlights-stats-stream-tv-2026-august-22"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Policy",
+      "headline": "Supreme Court cuts the practice requirement for judicial service entry from three years to one",
+      "body": "A 2:1 bench modified its own May 2025 ruling on Friday while dismissing the review petition, leaving one year of active legal practice as the bar for entry-level judicial exams. Selected candidates must still complete judicial academy training and a further year of clerkship. The new regime takes effect from 1 April 2027; candidates for exams notified between 25 May 2025 and 31 March 2027 are exempt from any prior experience requirement.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/sc-cuts-legal-practice-requirement-for-judicial-service-to-one-year-126082101321_1.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Supreme Court ruling on the meaning of industry narrows labour law cover",
+      "body": "The court held that the expansive 1978 Bangalore Water Supply test for what counts as an industry does not automatically carry over to the Industrial Relations Code, 2020. That earlier test looked at the nature of an establishment's activity rather than its profit motive or legal form, and had pulled hospitals and educational institutions into the scope of labour protections. Trade unions warned the split verdict could strip retrenchment safeguards from workers in those sectors.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/amp/industry/news/sc-ruling-may-narrow-labour-law-cover-for-hospital-education-workers-126082101401_1.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Centre notifies a Rs 62,500 crore mobile phone manufacturing scheme with a carve-out for Indian brands",
+      "body": "The five-year scheme, notified on 21 August and running to 2031, splits into one segment for mobile phone manufacturing generally and a second reserved for Indian brands. Indian brands get a flat 5% incentive plus 3% for domestic design and R&D, and up to a further 1.5% for sourcing key components locally. To qualify as Indian a firm must hold its IP and trademark in India, have in-house R&D here and be more than 51% owned by Indian citizens; the government is targeting 60,000 jobs.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/industry/news/govt-unveils-62-500-cr-mobile-manufacturing-scheme-incentives-up-to-5-126082100949_1.html"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Revised FDI framework has drawn 29 proposals worth Rs 4,895 crore",
+      "body": "The Commerce Ministry said the investments came in under Press Note 2 of 2026, which removed the need for prior government approval where ownership from a land-bordering country stays at or below 10%. The proposals span IT, AI, manufacturing, pharmaceuticals, data centres and transport, with money from Mauritius, the US, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands. The rule change was notified on 1 May and was designed to speed up clearances without dropping the underlying safeguards.",
+      "source_name": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/business/revised-fdi-framework-clears-29-investments-worth-4895-crore-government"
+    },
+    {
+      "tag": "Business",
+      "headline": "Private players line up behind indigenous heavy water reactors in the nuclear opening",
+      "body": "Companies looking at India's nuclear power expansion are favouring pressurised heavy water reactors, the domestically developed design, over imported alternatives. The preference reflects a proven supply chain and a lower regulatory hurdle than foreign reactor types would face. It comes as the government pushes towards a target of 100 GW of nuclear capacity by 2047.",
+      "source_name": "Indian Express",
+      "source_url": "https://indianexpress.com/article/business/pressurised-heavy-water-reactors-private-players-india-nuclear-power-expansion-10843946/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Delhi's H1N1 count reaches 1,777, nearly eight times last year's pace",
+      "body": "The capital has recorded 1,777 confirmed swine flu cases this year against 229 in the same period of 2025, including 114 new infections on 20 August alone. Total influenza cases stand at 2,602, of which 2,392 are Influenza-A. Union Health Minister J.P. Nadda has reviewed the situation with Delhi authorities and hospitals have been told to strengthen surveillance and testing; doctors are urging vaccination for vulnerable groups rather than panic.",
+      "source_name": "Indian Express",
+      "source_url": "https://indianexpress.com/article/cities/delhi/swine-flu-cases-surge-to-1777-in-delhi-what-doctors-are-seeing-10843749/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "India and the UK review their ten-year defence industrial roadmap in Delhi",
+      "body": "The 25th India-UK Defence Consultative Group met on 21 August, co-chaired by Defence Secretary Rajesh Kumar Singh and the UK's Permanent Under Secretary for Defence Jeremy Pocklington. Talks focused on joint research and development under India-UK Vision 2035 and the ten-year industrial roadmap, alongside expanded joint exercises, training and exchanges in emerging military technologies. Both sides also noted maritime security work in the Indo-Pacific, including the Regional Maritime Security Centre of Excellence.",
+      "source_name": "IANS",
+      "source_url": "https://ianslive.in/india-uk-review-defence-industrial-cooperation-and-ten-year-road-map--20260821220737"
+    },
+    {
+      "tag": "Climate",
+      "headline": "NGT asks the Centre to respond on an amendment to Ganga floodplain rules",
+      "body": "The National Green Tribunal issued notice to the Centre over a change to the rules governing construction and activity on the river's floodplains. Floodplain restrictions are the main legal tool limiting encroachment along the Ganga. The tribunal has sought the government's position before proceeding.",
+      "source_name": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/national/ngt-issues-notice-to-centre-against-amendment-on-ganga-floodplains/article71373938.ece"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Supreme Court calls the scrapped MGNREGA a good and effective scheme",
+      "body": "The bench described the rural employment guarantee as neither a freebie nor exploitation, pushing back on both lines of criticism levelled at it. The remarks come as the scheme is replaced by the VB-G RAM G framework, a transition that has drawn concern that the statutory guarantee of work is being diluted. The court's characterisation carries weight in ongoing litigation over the changeover.",
+      "source_name": "The Hindu",
+      "source_url": "https://www.thehindu.com/news/national/supreme-court-lauds-scrapped-mgnrega-scheme-calls-it-neither-freebie-nor-exploitation/article71373402.ece"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Treesa and Gayatri take World Championships bronze, India's first women's doubles medal in 15 years",
+      "body": "The pair lost a three-game semi-final to world number ones Liu Sheng Shu and Tan Ning at the Indira Gandhi Stadium on Saturday, securing bronze. Ranked 39th in the world, Treesa Jolly and Gayatri Gopichand had knocked out three seeded pairs on the way, ending India's wait since Jwala Gutta and Ashwini Ponnappa medalled in 2011. The championships conclude in Delhi on Sunday.",
+      "source_name": "Onmanorama",
+      "source_url": "https://www.onmanorama.com/sports/other-sports/2026/08/22/treesa-gayatri-clinch-maiden-world-championships-bronze-after-fighting-semifinal-loss.html"
+    }
+  ]
+}
