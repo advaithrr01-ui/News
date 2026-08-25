@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-25",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "US launches Operation Economic Outcast, sanctioning nearly 60 Iran-linked targets",
+      "body": "Treasury Secretary Scott Bessent unveiled the sanctions package on Monday, hitting close to 60 Iran-linked people, entities and vessels and widening secondary sanctions into digital assets, technology, gold, aviation and shipping. Washington also threatened measures against countries that do not cut economic ties with Tehran. Bessent had trailed the move as an economic onslaught against Iran's global financial connections.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Hormuz deadlock holds as Iran warns it will seize ships that break its transit rules",
+      "body": "Iran's Persian Gulf Strait Authority said vessels violating its transit rules face fines, seizure or confiscation, while the US naval blockade continues to bar traffic to and from Iranian ports. Shipping through the strait is running at about 20 percent of the pre-war average, according to a CNN analysis of UK maritime agency figures. Oman's foreign minister travels to Tehran on Tuesday to keep talks on the waterway alive.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/24/world/live-news/iran-war-trump"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Kushner and Netanyahu agree a US general should oversee Hamas disarmament",
+      "body": "After hours of talks in Israel on Monday, Jared Kushner and Benjamin Netanyahu agreed that demilitarising Gaza should begin with a Hamas weapons handover supervised by an American military general. The meeting followed rare direct talks between Kushner and Hamas's leader in Egypt on Sunday, part of a push to revive a 15-point roadmap that Israel had rejected. Israel's national security minister Itamar Ben-Gvir publicly condemned the effort.",
+      "source_name": "NBC News",
+      "source_url": "https://www.nbcnews.com/world/gaza/kushner-netanyahu-hamas-talks-gaza-plan-peace-trump-rcna592871"
+    },
+    {
+      "tag": "Defence",
+      "headline": "European leaders join Zelensky in Kyiv as Ukraine marks 35 years of independence under fire",
+      "body": "Ukraine's Independence Day on Monday brought foreign leaders to Kyiv to pledge fresh military and financial support, even as Russian drones and missiles struck across the country overnight. Ukrainian forces said they hit the state-owned Kamensky plant in Russia's Rostov region, which makes solid rocket propellant for Uragan, Smerch and Tornado-S launchers. The war is now in its fifth year with no ceasefire framework in place.",
+      "source_name": "The Philadelphia Inquirer",
+      "source_url": "https://www.inquirer.com/news/nation-world/ukraine-independence-day-russia-20260824.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "DR Congo's Ebola outbreak becomes the deadliest in the country's history",
+      "body": "The epidemic has killed 2,325 people, passing the 2,299 deaths of the 2018-2020 outbreak that was previously Congo's worst, the UN said. Confirmed cases stood at 5,290 as of 19 August and the outbreak has spread from a single health zone in Ituri to 54 zones across six provinces. It is caused by Bundibugyo ebolavirus, for which existing licensed treatments were not certified, complicating the response.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/08/1168154"
+    },
+    {
+      "tag": "Markets",
+      "headline": "US stocks slip as traders brace for Nvidia results and Jackson Hole",
+      "body": "The S&P 500 fell 0.3 percent and the Nasdaq 100 dropped 1 percent on Monday at the start of a week loaded with economic data and central bank commentary. Nvidia reports after the close on Wednesday, with Wall Street expecting about $92.1 billion in revenue and adjusted earnings of $2.09 a share. Nvidia shares are up around 12 percent year to date but lost nearly 7 percent over the past week.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Alibaba shares tumble after a $10.2 billion share sale to fund its AI build-out",
+      "body": "Alibaba priced 710 million new shares at HK$112.70 to raise HK$80 billion, saying all net proceeds will go into full-stack AI capabilities and infrastructure. The placement follows June-quarter results in which cloud and AI revenue grew 45 percent while profit fell sharply as capital expenditure rose 75 percent to 67.7 billion yuan. The stock dropped on the announcement as investors weighed dilution against the spending plan.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Xpeng's robotics arm raises $900 million from Alibaba, Tencent and IDG",
+      "body": "The Chinese carmaker's Dogotix subsidiary will take $600 million from outside investors, $200 million from Xpeng itself and $100 million from senior executives, valuing the unit at more than $6 billion. The round lands alongside a wider quarterly loss at Xpeng and is aimed at its humanoid robot programme. It is the latest sign of Chinese capital consolidating behind embodied AI to challenge Tesla.",
+      "source_name": "South China Morning Post",
+      "source_url": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m"
+    },
+    {
+      "tag": "Science",
+      "headline": "NASA's Roman Space Telescope clears its flight readiness review for a 30 August launch",
+      "body": "Mission leaders from NASA, the Roman team and SpaceX signed off on Friday at Kennedy Space Center, moving preparations into their final phase for liftoff no earlier than 7:26 a.m. EDT on Sunday aboard a Falcon Heavy. The observatory will survey cosmic expansion, the early universe and distant exoplanets. The date puts the flagship mission roughly nine months ahead of its committed May 2027 readiness deadline.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/blogs/roman/2026/08/21/teams-complete-flight-readiness-review-for-nasas-roman-telescope/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Xabi Alonso opens his Chelsea reign with a 3-2 win at Fulham",
+      "body": "Joao Pedro scored after 31 seconds at Craven Cottage on Monday night, and Chelsea twice restored their lead through a debut goal from Rogers and a Cole Palmer finish early in the second half. Fulham replied through King and a header from Garcia on his first Premier League start, both after errors from goalkeeper Robert Sanchez. Chelsea finished with 1.70 expected goals to Fulham's 1.35.",
+      "source_name": "Sky Sports",
+      "source_url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Geopolitics",
+      "headline": "Doval lands in Beijing for the 25th round of India-China boundary talks",
+      "body": "National Security Adviser Ajit Doval arrived on Monday and meets Chinese Foreign Minister Wang Yi on Tuesday as Special Representatives on the boundary question, with a call on Vice President Han Zheng also planned. Beijing said the two sides will continue in-depth communication on the border in line with leader-level consensus. The talks come ahead of a BRICS summit next month that New Delhi hopes Xi Jinping will attend.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/ajit-doval/25th-round-of-india-china-border-talks-set-to-take-place-in-beijing-on-tuesday"
+    },
+    {
+      "tag": "Business",
+      "headline": "TCS buys Porsche's IT arm MHP for 320 million euros and signs a 1.25 billion euro deal",
+      "body": "India's largest IT services company announced on Monday it will acquire MHP Management- und IT-Beratung GmbH, a Porsche AG subsidiary, for about $373 million. Porsche has also signed a five-year strategic contract with TCS worth 1.25 billion euros, under which TCS will set up a dedicated AI mobility centre of excellence. The deal lands in a year when Indian IT stocks have fallen by as much as 34 percent on fears AI is eroding the outsourcing model.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/companies/news/tcs-to-acquire-porsche-s-it-division-mhp-for-373-25-million-126082400886_1.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex sheds 172 points as Hormuz tension and higher bond yields weigh",
+      "body": "The Sensex closed at 77,369.11 on Monday, down 0.22 percent, while the Nifty 50 lost 32.95 points to settle at 24,219.05. PSU bank, media and bank stocks fell, while metal, realty and IT gained. Traders pointed to Iran's threat to seize vessels in the Strait of Hormuz ahead of the US sanctions announcement, and to domestic bond yields rising after the RBI's hawkish tone.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-172-pts-lower-nifty-ends-below-24-250-126082400749_1.html"
+    },
+    {
+      "tag": "Economy",
+      "headline": "RBI drains Rs 2.5 trillion through a seven-day reverse repo auction",
+      "body": "The central bank ran a variable rate reverse repo auction on Monday to absorb surplus liquidity from the banking system, the week's main policy event alongside industrial output and reserves data. Industrial production grew 7.3 percent in June, a 23-month high, with manufacturing up 7.8 percent. Forex reserves rose $9.905 billion to $716.907 billion in the week to 14 August.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/economy/news/policy-watch-rbi-liquidity-industrial-output-iip-forex-reserves-data-august-126082400175_1.html"
+    },
+    {
+      "tag": "Agriculture",
+      "headline": "Onion prices are 59% higher than a year ago as the Centre runs Kanda Express rakes",
+      "body": "The all-India average retail price of onion reached Rs 43.53 a kg on 24 August, against Rs 27.37 a year earlier. The government has begun moving bulk stocks on dedicated railway rakes from Nashik in Maharashtra to major consuming centres to cool prices. Onion is one of the most politically sensitive items in the Indian food basket.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/onion-prices-up-59-govt-ramps-up-kanda-express-supplies-to-cool-market-126082401020_1.html"
+    },
+    {
+      "tag": "Climate",
+      "headline": "Low-pressure area over the Bay of Bengal to drive heavy rain across eastern India",
+      "body": "The IMD said a system over the northwest Bay of Bengal will keep monsoon activity strong, with heavy to very heavy rainfall expected in Odisha, Chhattisgarh, Madhya Pradesh, Jharkhand and parts of Uttar Pradesh. Eastern Madhya Pradesh is already under an orange alert in Dindori and Balaghat, where 4 to 8 inches of rain is possible. Thunderstorms with lightning and gusty winds are forecast across several other states.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/low-pressure-area-over-bay-of-bengal-to-bring-heavy-rain-in-east-india-126082400178_1.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Manipur's draft electoral roll after the SIR lists 19.34 lakh voters",
+      "body": "The Election Commission published the draft roll with 19,34,399 electors from a potential 20,93,076, a 92.42 percent response rate for enumeration forms collected between 30 May and 28 June. The revision identified 43,000 deceased electors, flagged 1,08,283 who had shifted or were absent, and detected 7,394 duplicate registrations. The draft lists 9,40,466 male, 9,93,660 female and 294 third-gender voters.",
+      "source_name": "Akashvani News",
+      "source_url": "https://newsonair.gov.in/manipur-sir-19-34-lakh-voters-enrolled-in-draft-electoral-roll/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Air chief says the IAF backs theaterisation but wants it done without haste",
+      "body": "Chief of Air Staff Air Chief Marshal A.P. Singh said the Air Force is not opposed to integrated theatre commands but argued against rushing a restructuring of India's military command architecture. Theaterisation has been under discussion for years and remains the largest pending reform in Indian defence organisation. The Air Force has consistently sought clarity on how limited air assets would be divided across theatres.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/defence/2026/08/24/why-iaf-doesnt-want-india-to-rush-theaterisation-indian-air-force-chief-explains.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "ISRO targets eight launches this financial year and an uncrewed Gaganyaan flight within four months",
+      "body": "Chairman V. Narayanan said the agency plans eight launch vehicle missions carrying 12 satellites in the current financial year, and that the first uncrewed Gaganyaan test flight is expected within four months. About 8,000 tests tied to the human spaceflight programme have been completed and it has entered its final stage. Three uncrewed missions are planned before any crewed flight.",
+      "source_name": "Kerala Kaumudi",
+      "source_url": "https://keralakaumudi.com/en/en/india/general/isro-eight-launches-gaganyaan-test-flight-four-months-1795301"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Jurel's unbeaten 115 takes India to 503 for 9 declared in the Colombo Test",
+      "body": "Dhruv Jurel made 115 off 177 balls on a rain-shortened second day at the Sinhalese Sports Club, following Devdutt Padikkal's 117, before India declared. Sri Lanka closed on 8 for 2 after three overs when play was called off for bad light, trailing by 495 runs. It is Padikkal's second century in as many matches on the tour.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-2nd-test-1544002/match-report"
+    }
+  ]
+}
