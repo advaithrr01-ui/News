@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-26",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Trump says every mine has been cleared from the Strait of Hormuz as Iran and Oman float a temporary corridor",
+      "body": "President Donald Trump said on Tuesday that all mines in the Strait of Hormuz had been removed or detonated and threatened to destroy any vessel that tries to lay more, saying the US was watching every square inch of the waterway. Separately Iran and Oman outlined a phased framework for a temporary shipping channel through the strait, but Tehran said the Oman arrangement does not mean the strait is open. Roughly a fifth of the world's seaborne oil normally moves through Hormuz, and the deadlock is what has kept Brent above $90.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "China condemns Operation Economic Outcast as Iran promises to retaliate against the new US sanctions",
+      "body": "Beijing criticised Washington's latest sanctions package a day after the Treasury blacklisted nearly 60 individuals and entities accused of moving Iranian oil, procuring weapons or running cyber operations. Treasury Secretary Scott Bessent stopped short of the harshest measure, secondary sanctions on countries that keep trading with Tehran, but warned that anyone in the ecosystem turning Iranian oil into money would be targeted. The State Department also posted rewards of up to $10 million each for information on five senior Revolutionary Guard commanders.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/25/world/live-news/iran-war-trump-sanctions"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Russian drone crosses into Moldovan then Romanian airspace during an overnight attack on Ukraine",
+      "body": "A drone launched in the latest Russian barrage on Ukraine's Odesa region entered Moldovan airspace early Monday before continuing into Romania, the second such incursion in three days. The drone briefly triggered airspace restrictions in southern Moldova and was tracked over Romania's Galati county. Russia has now struck the Ukraine-Moldova border crossings three times in a fortnight, drawing the two NATO and EU neighbours steadily closer to the war.",
+      "source_name": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com/post/82985"
+    },
+    {
+      "tag": "Science",
+      "headline": "DR Congo's Ebola outbreak passes 5,500 cases and 2,600 deaths a hundred days after it was declared",
+      "body": "The WHO's Africa office says the Bundibugyo Ebola outbreak had reached 5,514 confirmed cases and 2,642 deaths by 22 August, making it the deadliest the country has recorded and overtaking the 2,299 deaths of the 2018-2020 epidemic. The outbreak has now spread to a sixth province, with Ituri still accounting for roughly 85 percent of cases and 79 percent of deaths. UN officials describe it as the fastest-growing Ebola outbreak on record.",
+      "source_name": "WHO Africa",
+      "source_url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration"
+    },
+    {
+      "tag": "Climate",
+      "headline": "A Manhattan-sized ice island breaks free from Greenland's Petermann Glacier",
+      "body": "A 76 sq km slab of the Petermann Glacier's floating ice tongue detached on 4 August, in the glacier's largest loss of floating ice since 2012 and the most significant Arctic calving event since 2020. Sentinel-1 radar imagery showed the ice tongue deteriorating along its centreline the day before it broke away; the new iceberg is up to 150 metres thick. Two further rifts could release ice islands of about 97 and 87 sq km, and researchers will track the drift for effects on Arctic shipping.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094145.htm"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Anthropic tells bankers its listing could match or beat SpaceX's record IPO",
+      "body": "People familiar with the plans say Anthropic expects its initial public offering to equal or exceed the size of SpaceX's record-setting listing, and that it could file publicly as soon as the end of this month. The company's annualised revenue has passed $65 billion, more than seven times its pace at the end of last year, and Citigroup is being added to a syndicate that already includes Morgan Stanley, Goldman Sachs and JPMorgan. Anthropic is also weighing super-voting shares that would concentrate control with chief executive Dario Amodei and his co-founders.",
+      "source_name": "Bloomberg",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/anthropic-expects-match-spacex-record-175602035.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Japan earmarks another $944 million for Rapidus in its bid to build 2nm chips at home",
+      "body": "The Ministry of Economy, Trade and Industry will seek a further 150 billion yen for the state-backed contract chipmaker in its fiscal 2027 budget request, channelled through the Information-technology Promotion Agency in a third round of government equity. That would take Tokyo's direct stake to 400 billion yen, or about $2.5 billion. Rapidus, founded in 2022, is aiming for mass production of 2-nanometre logic chips by 2027 to cut Japan's dependence on TSMC.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/japan-earmarks-another-944-million-for-rapidus-in-ai-chip-race"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Wall Street steadies before Nvidia's results and Kevin Warsh's first Jackson Hole",
+      "body": "The Dow and S&P 500 each added about 0.3 percent on Tuesday and the Nasdaq rose 0.7 percent, recovering some of Monday's chip-led losses. The Conference Board's consumer confidence index slipped to 89.4, below the 90.2 economists expected. Nvidia reports second-quarter results after the close on Wednesday with analysts looking for roughly $91 billion in revenue, and new Federal Reserve chair Kevin Warsh speaks at the Jackson Hole symposium on Friday.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Celtic and Bodo/Glimt come through the Champions League play-off second legs",
+      "body": "Celtic completed a 3-0 aggregate win at LASK and Bodo/Glimt beat NEC 3-1 on aggregate as Tuesday's play-off second legs began deciding the last seven places in the 2026/27 Champions League league phase. Hapoel Beer-Sheva edged Sabah 2-1 on aggregate. The remaining ties are settled on Wednesday, with the league phase draw to follow.",
+      "source_name": "UEFA",
+      "source_url": "https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Moscow says it is open to new ideas on Ukraine but only ones matching Putin's terms",
+      "body": "Deputy Foreign Minister Sergey Ryabkov said Russia would listen to fresh proposals for ending the war provided they align with President Vladimir Putin's position and what Moscow calls realities on the ground, while Putin continues to reject a resumption of formal talks. The comments land as Ukrainian forces push deeper strikes inside Russia, including a hit on a fighter jet at the Millerovo air base in Rostov Oblast. July was the war's deadliest month since May 2022, with Russia launching 376 missiles.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Geopolitics",
+      "headline": "India and China drop the early harvest formula and commit to a full boundary settlement",
+      "body": "The 25th round of Special Representatives' talks in Beijing ended with Ajit Doval and Wang Yi agreeing to pursue a fair, reasonable and mutually acceptable settlement of the boundary question, dropping the early harvest framing the two sides had agreed to explore a year ago. Both described the discussion as candid and in-depth and said ties are returning to normalcy. The next round will be held in India in 2027, and Doval linked the timing to the BRICS summit India is hosting.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/external-affairs-defence-security/news/doval-wang-yi-hold-border-talks-as-india-china-ties-return-to-normalcy-126082501370_1.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Karnataka's draft roll leaves out 1.07 crore voters after the Special Intensive Revision",
+      "body": "The draft electoral roll published on Monday lists 4.46 crore electors against 5.54 crore on the roll as of 16 June, with more than 1.07 crore names moved into the Absent, Shifted, Dead, Duplicate or Others category during enumeration. Chief Electoral Officer V Anbukumar said inclusion is not final and voters have until 23 September to file claims and objections, with rejected applicants able to reapply under Form 6. The final roll is due on 27 October. Telangana recorded the country's highest deletion rate at 21.7 percent.",
+      "source_name": "Deccan Herald",
+      "source_url": "https://www.deccanherald.com/india/karnataka/karnataka-sir-107-crore-voters-left-out-of-draft-electoral-roll-4122754"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Rajnath Singh clears the transfer of every DRDO conventional missile system to private industry",
+      "body": "The defence minister approved transferring technology for all conventional missile systems developed by DRDO to Indian defence companies, opening production to any firm that meets the qualification, certification and regulatory requirements. The aim is to move missile programmes out of the development stage and into large-scale domestic manufacturing. It is the broadest single transfer of missile technology under the Aatmanirbhar Bharat push, which until now has moved individual systems to selected firms.",
+      "source_name": "India TV News",
+      "source_url": "https://www.indiatvnews.com/news/india/rajnath-singh-approves-drdo-missile-technology-transfer-to-indian-companies-move-to-boost-defence-production-2026-08-25-1052353"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Infineon buys Bengaluru chip startup C2i Semiconductors for its AI data centre power designs",
+      "body": "The German semiconductor group announced on Monday it will acquire C2i Semiconductors, a fabless startup founded in 2024 that makes multiphase controllers and smart power stages for AI GPUs, with the deal expected to close this quarter. Terms were not disclosed; C2i had raised $16.7 million from Peak XV Partners and others. C2i implements its power control algorithms in software so the parts can support new GPU generations through configuration rather than a redesign, and the deal expands Infineon's engineering base in India.",
+      "source_name": "Infineon",
+      "source_url": "https://www.infineon.com/press-release/2026/infpr202608-129"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Questions mount over whether Indian industry can deliver SSLV rockets on schedule",
+      "body": "ISRO's 2025 handover of the entire Small Satellite Launch Vehicle technology to Hindustan Aeronautics Limited was the first time a complete flight-ready Indian rocket was privatised, letting a company build, own and launch it independently. Attention has now turned to whether the domestic defence industry can master the technology and meet delivery timelines. The agency is separately targeting a fully indigenous semiconductor supply for its launch vehicles within four years, drawing on IIT Madras's RISC-V based SHAKTI processors.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/defence/2026/08/25/can-defence-industry-master-isros-sslv-technology-and-deliver-rockets-on-time.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex slips 73 points as Asian markets follow a tech-led Wall Street selloff",
+      "body": "The benchmark closed 73.62 points lower on Tuesday with the Nifty settling around the 24,200 mark, after Indian indices opened in the red on mixed global cues. Brent crude near $92 and the fresh US sanctions on Iran remained the dominant drags on sentiment. Chip-linked stocks across Asia were weak following Monday's selloff in New York.",
+      "source_name": "India TV News",
+      "source_url": "https://www.indiatvnews.com/business/markets/25-august-2026-stock-market-updates-sensex-drops-73-62-points-nifty-below-24-200-amid-mixed-global-cues-2026-08-25-1052318"
+    },
+    {
+      "tag": "Economy",
+      "headline": "RBI says the economy is holding its momentum despite the global squeeze",
+      "body": "The central bank's latest assessment describes the domestic economy as showing notable resilience to global headwinds, pointing to buoyant domestic demand and rising manufacturing and services activity. The monetary policy committee has now held the repo rate at 5.25 percent for four consecutive meetings, having raised its FY27 growth forecast to 6.7 percent and trimmed the inflation outlook at the August review. The all-India house price index rose 1.1 percent over the previous quarter in the first quarter of FY27.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-25/india-s-rbi-sees-resilient-economy-as-growth-momentum-holds"
+    },
+    {
+      "tag": "Climate",
+      "headline": "A low-pressure system brings widespread rain to the north, east and centre while the peninsula stays dry",
+      "body": "The IMD forecasts widespread rainfall over east Uttar Pradesh, west Madhya Pradesh, Bihar and Gangetic West Bengal on 25 and 26 August, with isolated heavy falls in east Uttar Pradesh and Madhya Maharashtra. Konkan and Goa are due widespread rain until 30 August and Uttarakhand through 31 August, with heavy falls likely there from the 29th. Peninsular India, by contrast, is expected to stay subdued for another week.",
+      "source_name": "ETV Bharat",
+      "source_url": "https://www.etvbharat.com/en/bharat/rain-alert-across-india-low-pressure-system-to-trigger-widespread-showers-heavy-rain-in-several-regions-enn26082502774"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Prasidh Krishna and Manav Suthar take three each to leave Sri Lanka short of the follow-on mark",
+      "body": "Sri Lanka closed day three of the second Colombo Test on 265 for 8 in reply to India's 503 for 9 declared, still 39 runs from avoiding the follow-on with two wickets in hand. Prasidh Krishna had 3 for 35 by the first session, removing Mishara and Mendis with short balls, while the left-arm spinner Suthar also picked up three. India lead the series after winning the first Test by 165 runs, and rain is forecast for the closing days.",
+      "source_name": "WION",
+      "source_url": "https://www.wionews.com/sports/ind-vs-sl-2nd-test-day-3-match-report-krishna-suthar-jayasuriya-icc-sanction-1787664667228"
+    },
+    {
+      "tag": "Science",
+      "headline": "Chennai BRICS science meeting endorses a shared research infrastructure network",
+      "body": "Jitendra Singh chaired the 14th BRICS Science, Technology and Innovation ministerial in Chennai under India's 2026 chairship, calling for deeper cooperation in artificial intelligence, quantum technology and biotechnology. Ministers endorsed the BRICS STI calendar for 2026-27 and recorded progress towards operationalising the BRICS Global Research Advanced Infrastructure Network, which would pool access to mega-science facilities across member states. The outcome document has been styled the Chennai Consensus.",
+      "source_name": "DD India",
+      "source_url": "https://ddindia.co.in/2026/08/emerging-technologies-demand-stronger-global-collaboration-says-jitendra-singh-at-brics-sti-ministerial-meet/"
+    }
+  ]
+}
