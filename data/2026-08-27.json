@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-27",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "At least 157 killed and hundreds missing after a flash flood tears through the Nepal-Tibet border",
+      "body": "A landslide-triggered surge down the Bhotekoshi and upper Trishuli rivers wiped out settlements in Nepal's Rasuwa and Nuwakot districts on Wednesday, with Nepali officials recovering 157 bodies by Thursday morning. Nepal's tourism board put the missing at more than 380, the majority of them foreign nationals, while Chinese state broadcasters reported three dead and 265 missing at the Gyirong crossing on the Tibetan side. It is the deadliest single weather event in the region this monsoon and has closed a main trade and pilgrimage route into Tibet.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran says it has agreed to share Strait of Hormuz revenue with Oman as the two float a temporary corridor",
+      "body": "Iran's Revolutionary Guard said Tehran and Muscat had settled on a revenue-sharing arrangement for the strait, a day after the two foreign ministries described a phased framework for a temporary shipping channel and joint mine clearance. President Trump has claimed every mine has already been detonated or removed, a claim shipping analysts dispute given the limits of Iran's demining capability. Roughly a fifth of the world's seaborne oil normally transits Hormuz, and oil prices eased on the news.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/26/world/live-news/iran-war-trump"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "United States removes Syria from its state sponsors of terrorism list after 47 years",
+      "body": "The State Department formally rescinded Syria's designation, which had been in place continuously since 1979 and was the longest-running entry on the list. The move strips away a layer of sanctions covering arms sales, dual-use exports and foreign assistance restrictions, though other Syria-specific sanctions programmes remain. It is the clearest sign yet of Washington's reset with Damascus since the fall of the Assad government.",
+      "source_name": "US State Department",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Nvidia doubles quarterly revenue to $96.2 billion and forecasts 70% growth for fiscal 2028",
+      "body": "Nvidia reported revenue of $96.2 billion for the July quarter, up 106% year on year and well ahead of the $92.2 billion analysts expected, with earnings of $2.22 a share. Data centre sales came in at $89 billion, up 117% and now 92% of the company's business. Chief executive Jensen Huang told analysts demand is still accelerating and guided to roughly 70% revenue growth in fiscal 2028, far above consensus.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "OpenAI publishes first benchmarks for its Jalapeno inference chip, claiming a big efficiency lead over Blackwell",
+      "body": "At the Hot Chips conference OpenAI said its in-house inference-only accelerator delivers 1.5 to 1.9 times more work per watt at peak throughput than the best commercially available systems, with 1.7 to 3.6 times lower end-to-end latency, across GPT-OSS 120B, DeepSeek R1 and Kimi K2.5. The figures came from OpenAI using SemiAnalysis's public InferenceX benchmark, with SemiAnalysis verifying some runs on site. SemiAnalysis noted the fairer comparison is Nvidia's newer Vera Rubin platform, which Jalapeno still edged on output tokens per megawatt.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Meta agrees to pay up to $16.68 billion to settle US state claims over teen social media harms",
+      "body": "The settlement, reached mid-trial in a California federal court with 29 states, resolves claims that Meta designed Facebook and Instagram to addict children and misled parents about safety. About $12.7 billion flows to participating states over ten years, with the remaining $5.3 billion contingent on TikTok and YouTube adopting comparable limits and matching the funds. Meta must also impose default overnight blocks for teen accounts from midnight to 6am, silence notifications at night and during school hours, and strengthen age verification. The company denied wrongdoing.",
+      "source_name": "Reuters via Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/news/meta-settles-us-states-over-130318028.html"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "Gang attack in Haiti kills 47 and leaves more than 50 kidnapped",
+      "body": "Armed gunmen swept through a community in one of the deadliest single assaults Haiti has seen this year, killing at least 47 people and abducting more than 50 others. A gang leader has threatened to kill the hostages if security forces kill any of his members. It is among the largest mass kidnappings recorded in Haiti in recent years and comes as the multinational security mission struggles to reassert control.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead"
+    },
+    {
+      "tag": "Science",
+      "headline": "Melting diamond under extreme pressure settles a 20-year dispute and points to triple fusion gain",
+      "body": "Physicists at Lawrence Livermore National Laboratory, publishing in Nature Physics, compressed diamond to roughly three times the pressure at Earth's core using the Omega Laser Facility and took X-ray measurements of its atomic structure during the billionth-of-a-second window. The data closed a long-standing 20% gap between measured and simulated melting temperatures. Because diamond forms the capsule holding fusion fuel in inertial confinement experiments, the team calculates that slower shocks could triple energy gain if other losses are controlled, and the same physics explains diamond rain inside Neptune and Uranus.",
+      "source_name": "Lawrence Livermore National Laboratory",
+      "source_url": "https://www.llnl.gov/article/54801/melting-diamond-could-unlock-triple-fusion-gain-secrets-ice-giant-planets"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Jackson Hole opens with Kevin Warsh due to give his first symposium speech as Fed chair",
+      "body": "The Kansas City Fed's symposium runs from Thursday to Saturday, with Warsh scheduled to deliver the keynote at 10am Eastern on Friday. He took the chair in May after a 54-45 Senate vote, the narrowest confirmation for the post on record, and has said he wants the speech to frame the big questions rather than signal near-term policy. Investors are looking for any read on how he intends to respond to inflation that has stayed above target.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Champions League league phase draw takes place in Monaco on Thursday evening",
+      "body": "UEFA holds the 2026/27 league phase draw at the Grimaldi Forum from 18:00 CET, pairing 36 clubs into eight fixtures each, four at home and four away, drawn from four seeding pots. The field is made up of 29 automatic qualifiers plus the seven play-off round winners. Dates and kick-off times for the full fixture list are due by Saturday.",
+      "source_name": "UEFA",
+      "source_url": "https://www.uefa.com/uefachampionsleague/news/02a8-216eb10b789e-0768c05cf31b-1000--champions-league-europa-league-and-conference-league-leag/"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Breaking",
+      "headline": "133 Indian Kailash pilgrims among the missing as Bihar and Uttar Pradesh go on flood alert",
+      "body": "Of the roughly 400 people reported missing after the Nepal-Tibet flash flood, 133 are Indians who were on pilgrimage to Mount Kailash, the largest single national group. Flood alerts were issued across Bihar and Uttar Pradesh, where rivers from the Nepal hills drain into the plains; Bihar authorities said about 5,000 people had been moved from six districts with plans to evacuate 10,000 to 12,000 in total. Indian rescue and consular teams are working with Nepali police and army units along the Trishuli.",
+      "source_name": "NBC News",
+      "source_url": "https://www.nbcnews.com/world/asia/flash-flood-nepal-tibet-villages-destroyed-american-tourists-missing-rcna594473"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "US sanctions four India-based companies and three Indian nationals over Iranian oil trade",
+      "body": "The Treasury designated Sadashiva Overseas, PP Softtech, Prakrutees Infra Impex and the customs brokerage Portease Partners over roughly $119 million of Iranian petroleum and petrochemical imports, alongside three Indian nationals. Sadashiva alone accounted for about $69 million of imports between February 2024 and June 2025. The designations land as Washington threatens secondary measures against countries that keep trading with Tehran, with India, China, Turkey, Iraq and the UAE named by analysts as most exposed.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/world/us-sanctions-hit-indian-companies-over-iran-oil-trade"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Core sector growth eases to 5.4% in July as fertiliser, crude and gas output shrink",
+      "body": "The index of eight core industries grew 5.4% year on year in July, down from 6% in June, with cumulative April-July growth at 4.3%. Iron ore led at 29.5%, followed by cement at 13.1% and electricity at 9%, while fertiliser fell 8%, crude oil 5.3% and natural gas 3.7%. The eight sectors carry roughly 40% weight in the index of industrial production, so the reading points to construction and power demand holding up while the hydrocarbon side continues to contract.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/industry/news/india-s-core-sector-growth-rises-by-5-4-in-july-on-coal-refinery-products-126082000946_1.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Revised FDI framework draws 29 investments worth Rs 4,895.65 crore in its first months",
+      "body": "The commerce ministry said 29 foreign investments totalling Rs 4,895.65 crore had been reported up to 20 August under the framework notified on 1 May, which drops the prior-approval requirement where a land-bordering country holds a non-controlling stake of up to 10% in the investor entity. The beneficial ownership test now applies at the level of the investing entity rather than tracing every upstream shareholder. Investments came from Mauritius, the United States, South Korea, Japan, Singapore, Luxembourg and the Cayman Islands, across IT, AI, pharmaceuticals, data centres and transport.",
+      "source_name": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/business/revised-fdi-framework-clears-29-investments-worth-4895-crore-government"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex ends 183 points lower at 77,473 as IT, FMCG and auto shares drag",
+      "body": "The Sensex closed down 183.15 points or 0.24% at 77,472.94 on Wednesday and the Nifty fell 126.80 points or 0.52% to 24,207.75, with the Nifty IT index off more than 1% ahead of Nvidia's results. Infosys, Power Grid and Bharti Airtel led the decliners while Kotak Mahindra Bank, UltraTech Cement and Axis Bank gained. Traders were also weighing US inflation data and the West Asia situation.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-updates-august-26-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-crude-annu-projects-ipo-126082600098_1.html"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "New Delhi lines up a BRICS summit with Xi, Putin and Pezeshkian expected next month",
+      "body": "India is preparing to host the BRICS leaders' summit in the capital, most likely on 12 and 13 September, with Chinese President Xi Jinping, Russian President Vladimir Putin and Iranian President Masoud Pezeshkian among those expected. Dates have not been formally announced. The summit is the backdrop to National Security Adviser Ajit Doval's boundary talks in Beijing this week and to Jaishankar's visit to Moscow on 23-24 August for the India-Russia intergovernmental commission.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/diplomacy/brics-summit-xi-putin-pezeshkian-among-international-leaders-expected-next-month-in-new-delhi/3025529/"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Karnataka's post-revision draft roll has 4.46 crore electors, down from 5.54 crore in June",
+      "body": "The draft electoral roll published under the Special Intensive Revision lists 4,46,35,975 electors against 5,54,32,314 on the roll as of 16 June, with 1,07,96,339 names moved into the ASDDO category covering absent, shifted, dead, duplicate and other cases. The Election Commission says exclusion from the draft does not mean permanent deletion. Claims and objections run until 23 September and the final roll is due on 27 October.",
+      "source_name": "Deccan Herald",
+      "source_url": "https://www.deccanherald.com/india/karnataka/explained-karnataka-sir-draft-electoral-rolls-out-heres-what-happens-next-4121923"
+    },
+    {
+      "tag": "Business",
+      "headline": "Bengaluru voice AI startup Ringg raises $10 million as Honasa walks away from a Rs 135 crore pharma deal",
+      "body": "Ringg closed a $10 million extension to its Series A led by Peak XV Partners with Arkam Ventures and Capital 2b, taking the round to $15.5 million, while Runable raised $21 million in a Series A co-led by Susquehanna Venture Capital and Nexus Venture Partners. Separately Honasa Consumer called off its Rs 135 crore acquisition of Fluence Pharma, and Pernia's Pop Up Shop's parent set an IPO price band of Rs 546 to Rs 575. No major Indian AI policy or ISRO announcement landed in the last 24 hours.",
+      "source_name": "StartupTalky",
+      "source_url": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-26-august-2026/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Sri Lanka fight back after the follow-on before India regain their grip in the Colombo Test",
+      "body": "India bowled Sri Lanka out for 290 on the fourth morning at the SSC, a deficit of 213, and enforced the follow-on. Pasindu Sooriyabandara added 58 with Kamil Mishara and 115 with Kamindu Mendis to take the hosts to 209 for 3, four runs short of making India bat again, before Manav Suthar removed Dhananjaya de Silva and then Sooriyabandara. The match goes into its final day on Thursday.",
+      "source_name": "ESPNcricinfo",
+      "source_url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-2nd-test-1544002/match-report"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of extremely heavy rain over northwest Madhya Pradesh as a low forms over Gangetic Bengal",
+      "body": "The India Meteorological Department flagged isolated extremely heavy rainfall over northwest Madhya Pradesh and fairly widespread to widespread rain over west Uttar Pradesh, with heavy rain and thunderstorm warnings for Bihar through Thursday. The driver is a low-pressure area over Gangetic West Bengal, Jharkhand and north Odisha with an associated upper-air cyclonic circulation, tracking northwestwards. Peninsular India stays subdued for another week.",
+      "source_name": "India Meteorological Department",
+      "source_url": "https://mausam.imd.gov.in/responsive/monsooninformation.php"
+    }
+  ]
+}
