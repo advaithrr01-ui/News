@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-29",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Nepal halts flood rescue as a new barrier lake breaches on the Tibet border",
+      "body": "Nepal's prime minister's office put the confirmed death toll at 469 with 977 missing on Friday, while Chinese authorities reported three dead and 558 missing in Tibet. A barrier lake formed by Wednesday's debris flow swelled past 2.5 million cubic metres, up from 1.5 to 2 million a day earlier, and breached near the confluence of the Chhochen Khola and Purepu Tsangpo. Nepal Police began evacuating Trishuli and Chinese rescue teams pulled back to higher ground, suspending the search.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Iran lists its terms for reopening the Strait of Hormuz",
+      "body": "The secretary of Iran's Supreme National Security Council said Washington must lift its naval blockade and sanctions, withdraw US forces from the region, pay war reparations and release frozen Iranian assets before the waterway reopens. Shipping through the strait has largely stopped since the war began, and ceasefire arrangements announced in April and June did not hold. Iran and Oman are still working out details of a corridor that would run partly through Omani and partly through Iranian waters.",
+      "source_name": "Reuters",
+      "source_url": "https://www.yahoo.com/news/world/articles/iran-sets-conditions-reopening-strait-205036950.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Warsh uses his Jackson Hole debut to signal the Fed still has work to do on inflation",
+      "body": "The Fed chair said recent inflation readings were better than expected but did not show that underlying trends had meaningfully improved, and added that markets should not look primarily to the Fed for their next trade. The two-year Treasury yield jumped more than six basis points to 4.298% while the 30-year eased two basis points to 5.168%. A majority of investors now expect a rate increase at the September meeting.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "US judge blocks the Pentagon's blacklisting of Anthropic as illegal and baseless",
+      "body": "District Judge Rita Lin ruled in a 59-page order issued Thursday night that the Defense Department acted unlawfully when it designated Anthropic a supply chain risk to national security, writing that the empty invocation of national security is not a blank check to punish government critics. The designation followed Anthropic's refusal to let the military use Claude for surveillance or autonomous weapons, and was the first time a US company had been publicly labelled a supply chain risk under the statute. Anthropic had argued the move retaliated against its public positions on AI safety.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "Contract builders tell cloud giants Nvidia AI server prices will rise more than 15% in early 2027",
+      "body": "Server manufacturers that assemble systems for Microsoft, Google and Oracle have told customers that Vera Rubin and Grace Blackwell configurations will cost more than 15% extra from early 2027, driven by DRAM, LPDDR and high-bandwidth memory shortages. Memory accounts for roughly 29% of the approximately $2.1 million bill of materials for a Vera Rubin VR200 system. Neither the builders nor Nvidia have confirmed the figures publicly.",
+      "source_name": "TrendForce",
+      "source_url": "https://www.trendforce.com/news/2026/08/24/news-nvidia-reportedly-eyes-more-than-15-price-hikes-for-vera-rubin-grace-blackwell-servers-in-early-2027/"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Russia launches 164 drones at Ukraine and closes a main Kyiv-to-west highway",
+      "body": "Half the Shahed-type drones fired overnight on Thursday were jet-powered; Ukrainian air defences intercepted 137, with strikes recorded at 16 locations. The attack set fires at warehouse and logistics sites in Kyiv Oblast, forcing the temporary closure of a highway linking the capital to western Ukraine. Interior Minister Ivan Vyhivskyi said food warehouses, hypermarkets and postal terminals were hit; at least 10 people were killed and 43 injured nationwide over the previous day.",
+      "source_name": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com/warehouses-targeted-outside-kyiv-in-all-day-drone-attack-as-russian-forces-kill-at-least-10-injure-43-over-past-day-across-ukraine/"
+    },
+    {
+      "tag": "Science",
+      "headline": "NASA clears the Nancy Grace Roman telescope for a Sunday launch on Falcon Heavy",
+      "body": "A launch readiness review held on Friday cleared the observatory for liftoff no earlier than 7:26 a.m. EDT on Sunday from Kennedy Space Center. Roman was encapsulated in the 43-foot Falcon Heavy fairing on 21 August and mated to the rocket at Launch Pad 39A. The mission is designed to survey thousands of exoplanets and to probe dark matter and dark energy.",
+      "source_name": "Via Satellite",
+      "source_url": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday/"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "US charges 81 alleged members of a Puerto Rico drug gang in a single takedown",
+      "body": "Attorney General Todd Blanche announced the indictment of 81 people tied to the Los Baja Deo organisation, with 70 arrested and 11 still at large. Prosecutors say the group distributed at least 340 kilograms of fentanyl or fentanyl-laced narcotics and 2,200 kilograms of cocaine, generating more than $49 million; 21 firearms were seized. Defendants facing both drug and firearms counts face a minimum of 15 years and a maximum of life.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues"
+    },
+    {
+      "tag": "Climate",
+      "headline": "WMO says record land and sea temperatures defined July and early August",
+      "body": "The agency's latest update records heat, drought, fire and flooding across multiple regions through the northern summer. France is on course for one of its most extreme fire years in more than two decades, with emissions comparable to or above 2022 and 2023, while Typhoon Dolphin flooded parts of eastern China and the Philippines and Shanghai cancelled about 1,300 flights.",
+      "source_name": "World Meteorological Organization",
+      "source_url": "https://wmo.int/media/news/record-breaking-heat-and-extreme-weather-continue"
+    },
+    {
+      "tag": "Sport",
+      "headline": "US Open main draw begins Sunday with Alcaraz and Sabalenka defending",
+      "body": "Singles qualifying ran through Friday at Flushing Meadows ahead of the year's final Grand Slam. Karolina Muchova and Jakub Mensik have already taken the mixed doubles title, beating Belinda Bencic and Flavio Cobolli. Novak Djokovic, Coco Gauff, Elena Rybakina, Jessica Pegula, Ben Shelton and Taylor Fritz are among the names in the main draws.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/8/28/us-open-2026-all-to-know-about-the-schedule-top-seeds-and-favourites"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Geopolitics",
+      "headline": "Modi leaves today for Tashkent before the SCO summit in Bishkek",
+      "body": "The prime minister is on a state visit to Uzbekistan on 29 and 30 August, his fourth, with delegation-level talks with President Shavkat Mirziyoyev covering trade, critical minerals, defence, energy and digital connectivity. Bilateral trade and investment are close to $1 billion. He then attends the 26th SCO summit in Bishkek on 31 August and 1 September, where the MEA has confirmed a bilateral with Vladimir Putin; Xi Jinping and Shehbaz Sharif are also expected.",
+      "source_name": "ANI",
+      "source_url": "https://aninews.in/news/world/asia/pm-modi-to-meet-putin-on-sidelines-of-sco-summit-in-bishkek-from-august-31-mea20260827223502/"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "85 Indians rescued from the Nepal floods, 178 still listed as missing",
+      "body": "The figure marks progress from Thursday, when 142 Indians were on the missing list and no rescue total had been confirmed. The Nepal Tourism Board said 121 foreign travellers in total had been pulled out as of 3:30 p.m. on Friday. Damaged roads and bridges in the Bhotekoshi valley are slowing both the search and the work of verifying who is unaccounted for.",
+      "source_name": "Outlook India",
+      "source_url": "https://www.outlookindia.com/international/85-indians-rescued-after-nepal-floods-search-operations-underway"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "India and China agree an eight-point consensus at the 25th special representatives talks",
+      "body": "NSA Ajit Doval and Foreign Minister Wang Yi met in Beijing on 25 August and agreed measures on peace along the Line of Actual Control, boundary negotiations, military communication channels and border management. The two sides will hold the next round in India in 2027 and welcomed the resumption of the Kailash Manasarovar pilgrimage and border trade through Himalayan passes. It sets up the Modi-Xi meeting expected at Bishkek.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/external-affairs-defence-security/news/doval-wang-yi-hold-border-talks-as-india-china-ties-return-to-normalcy-126082501370_1.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex snaps a two-day slide with a 331-point gain as IT stocks lead",
+      "body": "The benchmark closed Friday at 77,264.51, up 0.43%, and the Nifty50 added 84.80 points or 0.35% to 24,175.65. TCS, Tech Mahindra and Infosys were the top Nifty gainers, reversing Thursday's session when IT was among the drags. The rupee finished little changed against the dollar at about 95.56.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-august-28-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-share-price-126082800087_1.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Purple Style Labs sets a Rs 546-575 band for its Rs 680 crore IPO",
+      "body": "The parent of luxury fashion platform Pernia's Pop-Up Shop took anchor bids on Friday, with the public issue open from 31 August to 2 September. At the top of the band the company would be valued at more than Rs 4,600 crore. The issue is entirely fresh equity, with Rs 371.13 crore earmarked for lease liabilities at experience centres and back-end offices and Rs 138.90 crore for sales and marketing.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/ipo/purple-style-labs-sets-price-band-eyes-4-604-crore-ipo-valuation-126082601120_1.html"
+    },
+    {
+      "tag": "Politics",
+      "headline": "Karnataka's draft electoral roll opens a month-long window for claims and objections",
+      "body": "The draft published on 24 August starts a claims and objections period running to 23 September, with 1 October as the qualifying date and the final roll due on 27 October. About 1.09 crore electors, or 19.81% of the pre-revision total of 5.54 crore, were flagged in the ASDDO category and must approach booth-level or electoral registration officers to have entries corrected. The Supreme Court upheld the legality of the special intensive revision in May.",
+      "source_name": "Deccan Herald",
+      "source_url": "https://www.deccanherald.com/india/karnataka/explained-karnataka-sir-draft-electoral-rolls-out-heres-what-happens-next-4121923"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of heavy rain across the northeast, Bihar, Jharkhand and Odisha on Saturday",
+      "body": "Isolated heavy falls are forecast for Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram, Tripura, east Madhya Pradesh, Chhattisgarh, Vidarbha, Uttarakhand, Gangetic West Bengal and Sikkim. Odisha is under a heavy-to-very-heavy warning, and Bhandara, Gondia and Nagpur in Maharashtra are on a yellow alert for thunderstorms and strong winds. South Bengal is forecast 7 to 20 cm on 30 August.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/weather-tomorrow-august-29-imd-issues-heavy-rain-warning-for-northeast-bihar-jharkhand-check-forecast-for-delhi-mumbai-odisha-mp-uttarakhand-8511960/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Women's Asia Cup opens in Dubai without Jemimah Rodrigues",
+      "body": "The tournament runs from 28 August to 13 September at Dubai International Stadium, with Harmanpreet Kaur captaining a 15-member India squad that includes Smriti Mandhana, Shafali Verma, Richa Ghosh and Deepti Sharma. Rodrigues is out with a high-grade hamstring tear sustained in The Hundred. India open against Thailand on 30 August and play Pakistan on 5 September.",
+      "source_name": "Olympics.com",
+      "source_url": "https://www.olympics.com/en/news/women-asia-cup-2026-cricket-india-squad"
+    },
+    {
+      "tag": "Policy",
+      "headline": "India crosses 300 GW of non-fossil generation capacity, 60% of its 2030 target",
+      "body": "Non-fossil sources now make up more than 54% of total installed capacity of roughly 552 GW as of 31 July. Installed solar passed 164 GW after about 2,443 MW was added in July, taking additions for the first seven months of the year to nearly 28.8 GW. Analysts expect full-year solar additions to exceed 50 GW, beating the previous record set in 2025.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/india/story/60-of-2030-target-india-hits-300-gw-clean-energy-milestone-as-solar-capacity-skyrockets-548178-2026-08-09"
+    },
+    {
+      "tag": "Science",
+      "headline": "ICMR licenses two indigenous vaccine platforms for enteric infections to industry",
+      "body": "The platforms, developed at the ICMR-National Institute of Research in Bacterial Infections in Kolkata, target typhoid, paratyphoid and Shigella. The transfer is intended to move them into large-scale manufacturing and regulatory development. ICMR also transferred cancer technologies under the same commercialisation push.",
+      "source_name": "The Indian Practitioner",
+      "source_url": "https://theindianpractitioner.com/icmr-transfers-indigenous-cancer-and-vaccine-technologies-for-commercial-development/"
+    }
+  ]
+}
