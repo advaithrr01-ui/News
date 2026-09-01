@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-01",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "US strikes Iranian launchers on Larak Island and Iran fires back at bases in Jordan and the UAE",
+      "body": "US forces destroyed two IRGC rocket launchers on Larak Island on Sunday after the unit was seen preparing to fire rockets carrying sea mines into the Strait of Hormuz. It was the first publicly reported direct US strike on Iranian positions in more than a month. Iran retaliated with ballistic missiles and drones against the King Hussein and Al-Azraq air bases in Jordan, and claimed a drone attack on Al Minhad in the UAE, which Emirati authorities denied.",
+      "source_name": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Oil pushes past $90 a barrel as the Hormuz exchange revives supply fears",
+      "body": "Crude climbed again on Monday after the Larak Island strike and Iran's response, with Brent trading above $90. US pump prices had already averaged more than $4 a gallon on a daily basis in August for the first time. The strait carries roughly a quarter of the world's seaborne oil, and the renewed fighting pushes back any reopening.",
+      "source_name": "Fortune",
+      "source_url": "https://fortune.com/2026/08/31/gas-prices-oil-us-iran-strikes-strait-hormuz/"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "Nepal flood death toll passes 900 with more than 4,200 still missing",
+      "body": "Nepal's disaster authority put the toll at 903 dead and 1,473 injured, with 4,247 people unaccounted for, including 592 foreign nationals. The barrier lake on the Tibet border that forced rescuers to pause work last week had largely drained by Sunday, allowing crews back into the worst-hit valleys. Attention has shifted to hydropower workers still missing at sites along the flooded rivers.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/31/world/live-news/nepal-china-flood"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Trump says the US has secured majority control of 65 billion barrels of Venezuelan oil",
+      "body": "The agreement, announced Friday and negotiated with Venezuela's interim president Delcy Rodriguez, covers 17 fields and gives a new US-linked venture rights to develop them. Washington says the arrangement could draw about $100 billion of investment into Venezuela's oil industry and generate more than $209 billion in taxes for Caracas. Nicolas Maduro, seized in a US operation in January, is awaiting trial in New York on drug and weapons charges.",
+      "source_name": "NPR",
+      "source_url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Russia signals massive strikes on Ukraine's power grid ahead of winter",
+      "body": "Moscow's defence ministry said it was preparing large-scale attacks on Ukrainian energy infrastructure, framing them as a response to Ukrainian strikes on Russian energy sites. Ukraine said its air defences downed 96 of 121 drones launched overnight into Monday, while Russian strikes on Kharkiv city and 13 nearby settlements injured four civilians. It is the fourth winter in which the grid has been a primary target.",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "OpenAI buys tens of thousands of Macs to train computer-use agents",
+      "body": "OpenAI has acquired Mac mini and Mac Studio machines in bulk for reinforcement learning and training agents that operate software the way a person would, while Anthropic is renting Mac mini capacity through Amazon Web Services for similar work. Apple's licence terms bar running macOS on non-Apple silicon, so scaling this kind of training requires physical Apple hardware. The buying followed Apple's 25 August refresh of both desktops around the M6, its first 2-nanometre chip.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openai-is-buying-thousands-of-apple-mac-minis-to-train-ai-agents-heres-whats-driving-the-move-552202-2026-08-31"
+    },
+    {
+      "tag": "Business",
+      "headline": "John Ternus takes over as Apple chief executive today",
+      "body": "Ternus, who ran hardware engineering and joined Apple's product design team in 2001, becomes the company's eighth CEO with effect from 1 September. Tim Cook steps up to executive chairman after 15 years in the job, in a succession the board approved unanimously in April. Ternus inherits an AI roadmap that has lagged rivals and a hardware pipeline that includes a foldable iPhone.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai"
+    },
+    {
+      "tag": "Science",
+      "headline": "NASA's Roman Space Telescope launches on a Falcon Heavy",
+      "body": "The Nancy Grace Roman Space Telescope lifted off from Launch Complex 39A at Kennedy Space Center at 7:26 a.m. EDT on Sunday, separating from the rocket 31 minutes into flight. Controllers confirmed the solar panels and lower instrument sun shade deployed an hour and 23 minutes after launch. Roman has a field of view far wider than Hubble's and will spend three months travelling about a million miles to its operating orbit before surveying dark energy, exoplanets and galaxy formation.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+    },
+    {
+      "tag": "Science",
+      "headline": "IBM and Chicago researchers run a verified quantum computation classical machines cannot match",
+      "body": "The team used encoded circuits with 70 logical qubits, completing thousands of logical operations at lower effective error rates than the underlying physical hardware. The computation finished in about 15 minutes, a workload leading classical simulation methods cannot reproduce in any practical time. The result pairs quantum advantage with a way of verifying the answer, which earlier advantage claims lacked.",
+      "source_name": "ScienceDaily",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Lionel Messi retires from the Argentina national team",
+      "body": "Messi, 39, announced on Instagram that he is done with international football after weeks of reflection following Argentina's World Cup final defeat to Spain in July. He leaves with 125 goals and 68 assists in 207 caps, the 2022 World Cup, two Copa America titles and three runners-up medals. He continues to play for Inter Miami in Major League Soccer.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/08/31/sport/lionel-messi-argentina-national-team"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Economy",
+      "headline": "India's GDP grows 7.8% in the first quarter of FY27, beating forecasts",
+      "body": "Statistics ministry data released on Monday put real growth at 7.8%, up from 6.9% a year earlier and above a consensus range of 7.1-7.3%. Nominal GDP rose 10.3% and real gross value added 8.2%, with services expanding 10% and the financial, real estate and professional services group up 12.1%. The centre had spent 27.8% of its full-year capital expenditure budget by the end of June, against 24.5% in the same quarter last year.",
+      "source_name": "Business Today",
+      "source_url": "https://www.businesstoday.in/latest/economy/story/doomsayers-were-doomed-india-bloomed-pm-modi-as-gdp-growth-jumps-to-7-8-in-q1-fy27-552338-2026-08-31"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "108 Indians rescued from the Nepal floods with more than 275 still missing",
+      "body": "The external affairs ministry said it had also re-established contact with about 50 more Indians, leaving over 275 unaccounted for a week after the flood. A 24-hour control room is running in Delhi alongside round-the-clock helplines at the missions in Kathmandu and Beijing. India has offered NDRF teams and rescue equipment and has sent a medical team to assist relief work.",
+      "source_name": "Organiser",
+      "source_url": "https://organiser.org/2026/08/30/377780/bharat/nepal-floods-108-indians-rescued-over-275-still-missing-govt-coordinates-relief-with-kathmandu-beijing/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Modi meets Putin in Bishkek as the 26th SCO summit opens",
+      "body": "The two-day summit running 31 August and 1 September marks 25 years of the grouping, with Xi Jinping also present though no formal Modi-Xi bilateral was scheduled. Energy, fertiliser supplies and the S-400 programme were expected to dominate the Modi-Putin meeting on the sidelines. Members are also negotiating an SCO development bank to finance Eurasian infrastructure.",
+      "source_name": "The Week",
+      "source_url": "https://www.theweek.in/news/world/2026/08/31/modi-kyrgyzstan-sco-summit-putin-meeting.html"
+    },
+    {
+      "tag": "Defence",
+      "headline": "India signs for about 100 US Javelin anti-tank missile systems",
+      "body": "The government-to-government deal, announced by the US Mission on Friday, runs through the Foreign Military Sales route and is worth roughly $45.7 million as estimated by the State Department. It closes a procurement India first opened more than a decade ago before switching to Israel's Spike and then the indigenous MPATGM. Both sides say they are working towards eventual joint production in India.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/external-affairs-defence-security/news/india-us-javelin-anti-tank-missile-deal-indian-army-126082800773_1.html"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Defence ministry eases export rules and widens the open general export licence",
+      "body": "The simplified standard operating procedure drops mandatory stakeholder consultation for non-lethal defence exports to most destinations while keeping safeguards for sensitive items and countries. The OGEL list now covers more categories, including civil-use exports of specified small-calibre arms components and protective equipment. Defence exports hit a record Rs 38,424 crore in 2025-26 against domestic production of Rs 1.78 lakh crore.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/govt-eases-defence-export-sop-widens-open-general-export-licence-ambit-126082801011_1.html"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex ends 307 points lower as crude nears $90 and MSCI rejig looms",
+      "body": "The Sensex closed at 76,957.27, down 0.4%, and the Nifty at 24,080.40, down 0.39%, with metal, realty and IT stocks the biggest drags. Rising oil prices on the back of the US-Iran exchange and caution ahead of the MSCI rebalance drove the selling. Midcaps held up with a 0.24% gain while smallcaps fell 0.74%.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-august-31-nse-bse-sensex-today-nifty-gift-nifty-augmont-enterprises-ipo-listing-126083100066_1.html"
+    },
+    {
+      "tag": "Tech & Policy",
+      "headline": "Government notifies the Rs 1.27 lakh crore Semicon 2.0 scheme and opens applications",
+      "body": "The guidelines issued on Monday cover six pillars and ten categories spanning chip design, equipment and materials, fabrication, packaging, R&D and talent. The cabinet approved the outlay in July; the application window is now open. Industry body IESA estimates the scheme could pull in more than Rs 5 lakh crore of private investment over five to seven years.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/economy/govt-notifies-rs-1-27-lakh-cr-semicon-2-0-outlines-eligibility-sweeteners-for-full-chip-ecosystem/3030075/"
+    },
+    {
+      "tag": "Science",
+      "headline": "ISRO sets EOS-05 for 4 September as NavIC slips below its four-satellite floor",
+      "body": "GSLV-F17 is scheduled to lift off at 2:55 a.m. IST on Thursday from the second launch pad at Sriharikota carrying the 2,367 kg EOS-05, a geostationary imager replacing the satellite lost when a cryogenic stage failed in August 2021. Separately, the NavIC constellation has dropped below the four working satellites it needs for independent positioning and timing, after atomic clock degradation on first-generation IRNSS spacecraft. NVS-03 is launch-ready with three more navigation satellites to follow.",
+      "source_name": "SatNews",
+      "source_url": "https://satnews.com/2026/08/31/isro-deploys-first-geostationary-earth-imager-as-navic-constellation-operates-below-baseline-threshold/"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD warns of extremely heavy rain over Chhattisgarh as a low-pressure area sits over the Bay",
+      "body": "A well-marked low over the northwest Bay of Bengal and the West Bengal-north Odisha coasts is driving heavy to very heavy falls across Gangetic West Bengal, Jharkhand, Odisha and Chhattisgarh through 1 September, with isolated extremely heavy rain flagged for Chhattisgarh on Monday. Warnings for thunderstorms and gusty winds cover eastern, central, northeastern and northern India, including Uttarakhand, Himachal Pradesh, Nagaland, Manipur, Mizoram and Tripura. The department expects rainfall over peninsular India to stay subdued for the coming week.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/weather-update-august-31-heavy-rain-warning-issued-for-several-states-check-imd-forecasts-for-delhi-maharashtra-uttarakhand-odisha-bihar-himachal-bengal-8513403/"
+    },
+    {
+      "tag": "Sport",
+      "headline": "India beat Thailand by 94 runs at the Women's Asia Cup in Dubai",
+      "body": "India posted 159 for 9 in their 20 overs, with Shafali Verma making 64 off 36 balls. Thailand were bowled out for 65 in 16.1 overs, with Deepti Sharma leading the attack. It was India's second win of the group stage.",
+      "source_name": "Outlook India",
+      "source_url": "https://www.outlookindia.com/sports/cricket/india-vs-thailand-live-score-womens-asia-cup-2026-highlights-updates-dubai"
+    }
+  ]
+}
