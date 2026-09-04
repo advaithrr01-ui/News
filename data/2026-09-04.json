@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-04",
+  "world": [
+    {
+      "tag": "Breaking",
+      "headline": "Iran says 18 killed, 142 injured as US strikes hit a wedding party, and Trump threatens more",
+      "body": "Iran's health ministry says 18 people have been killed and at least 142 injured in the latest wave of US strikes on its southern coast since Sunday, including five people killed when a missile hit a wedding celebration in Kuhestak, Sirik county. Iran's foreign ministry called the wedding strike a war crime; US Central Command said it was investigating reports of civilian casualties. President Trump called the strikes \"very heavy\" and said the US is \"prepared to do another one anytime we want,\" as the USS George Washington heads to the region to replace the USS Abraham Lincoln.",
+      "source_name": "Anadolu Agency",
+      "source_url": "https://aa.com.tr/en/us-israel-iran-war/iran-says-18-killed-142-injured-in-us-strikes-since-sunday/4045897"
+    },
+    {
+      "tag": "Breaking",
+      "headline": "Nepal-Tibet flood toll climbs past 1,250 dead as nearly 4,800 remain missing on both sides",
+      "body": "Nepal's disaster authority now counts at least 1,252 dead and 4,216 missing, up sharply from 1,010 dead and 3,916 missing reported a day earlier, as recovery teams keep working through flood-hit valleys. Chinese state media reported 16 more deaths and 546 missing on the Tibet side, taking the combined toll to roughly 1,268 dead and 4,762 missing. Citizens of at least 39 countries are among the missing, with 288 Indian nationals the largest foreign contingent unaccounted for.",
+      "source_name": "ABC News",
+      "source_url": "https://abcnews.com/International/nepal-floods-death-toll-climbs-1252-rescue-efforts/story?id=136167244"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Xi Jinping makes first Egypt visit in a decade, calls for a new Middle East security order",
+      "body": "Xi arrived in Cairo on 1 September at the invitation of President Abdel Fattah el-Sisi, capping a trip that also took him to the Bishkek SCO summit. He urged Middle East states to resist external interference and floated a new regional security framework, as Beijing looks to expand its economic and military footprint at a moment when US influence in the region has been strained by the Iran war. Chinese investment in Egypt already exceeds $10 billion, including the New Administrative Capital and a Nile Delta rail line.",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Israeli minister unveils $3 billion plan to remove 1.86 million Palestinians from Gaza over seven years",
+      "body": "Far-right National Security Minister Itamar Ben Gvir unveiled \"Disengagement 710,\" a plan for what he calls the voluntary emigration of Gaza's population, targeting 250,000 departures in year one and 1.86 million within seven years, to destinations including Turkey, Ethiopia and Congo. The plan calls for an initial Israeli investment of $3 billion followed by up to $15.2 billion in matching international funds, unveiled as Ben Gvir's Otzma Yehudit party campaigns ahead of an October 27 election. Palestinians in Gaza have largely rejected the proposal, fearing it amounts to forced expulsion.",
+      "source_name": "The Times of Israel",
+      "source_url": "https://www.timesofisrael.com/liveblog_entry/ben-gvir-unveils-voluntary-emigration-plan-aimed-at-removing-1-86-million-palestinians-from-gaza/"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Dow jumps 635 points on hopes the Fed holds rates steady as oil holds near $95",
+      "body": "Wall Street rallied after Fed Governor Christopher Waller said he would support keeping interest rates unchanged this month if inflation data doesn't surprise to the upside, lifting the implied odds of a hold to roughly 50% from 37% a day earlier. The 10-year Treasury yield eased to near 4.77%. Brent crude held near $95 a barrel, about 40% higher than a year ago, as the renewed US-Iran exchange keeps a risk premium on Gulf shipping lanes.",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-635-points-fed-170855232.html"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Russia's combat losses in Ukraine pass 1.49 million as Odesa and Dnipropetrovsk take fresh hits",
+      "body": "Ukraine's General Staff puts total Russian personnel losses since February 2022 at roughly 1,492,350, including about 1,320 in the past day, after 199 combat engagements and 73 Russian airstrikes on 3 September. Eight people were injured in Odesa after a Russian aerial attack damaged a multi-storey residential building, and Dnipropetrovsk region was struck more than 20 times overnight with bombs, drones and artillery. Ukrainian forces reported hitting a landing craft, an electronic-warfare system and a drone command post in return strikes.",
+      "source_name": "Ukrainian Women's Guard",
+      "source_url": "https://uavarta.org/en/war-in-ukraine-today-latest-news-03-september-2026-photo/"
+    },
+    {
+      "tag": "Tech & AI",
+      "headline": "ChatGPT, Claude and Gemini go down within the same half-hour in a rare simultaneous outage",
+      "body": "OpenAI, Anthropic and Google all reported service disruptions within the same window on Wednesday, with Downdetector logging more than 35,000 US reports for ChatGPT alongside smaller spikes for Claude and Grok. OpenAI said elevated error rates hit 15 ChatGPT components and 4 Codex components starting at 10:58am UTC and were mitigated within 24 minutes; Anthropic reported elevated errors on several Claude models beginning around 9:23am ET, resolved by 12:16pm. Google did not formally confirm an outage despite a spike in Gemini complaints.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-anthropic-spacexai-hit-by-service-outages-for-ai-models"
+    },
+    {
+      "tag": "Science",
+      "headline": "Hubble spots a growing 10-sided \"decagon\" encircling Saturn's south pole",
+      "body": "Astronomers say Hubble has tracked a giant, evolving 10-sided atmospheric wave around Saturn's south pole, roughly 104,250 miles wide with each side about 10,425 miles long, in findings published in Science Advances. The decagon appears to have emerged only in the past few years, first showing up in 2023 Hubble images, and is still strengthening. It is the first large regular-sided jet pattern seen in Saturn's southern hemisphere, echoing but distinct from the planet's famous northern hexagon discovered in 1988.",
+      "source_name": "Space.com",
+      "source_url": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole"
+    },
+    {
+      "tag": "Climate",
+      "headline": "WMO warns a \"very strong\" El Nino is set to intensify, raising flood, drought and heat risks into 2027",
+      "body": "The World Meteorological Organization says the chance of El Nino persisting through February 2027 is now close to 100%, an unusually unequivocal forecast for the agency. The Nino 3.4 index, a key measure of central Pacific Ocean temperatures, averaged 1.5C above normal from May to July and had climbed to 2.6C above normal by mid-August. The UN agency says the phenomenon raises the likelihood of extreme heat, floods and drought across multiple regions as it peaks around year-end.",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/09/1168265"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Khachanov, van de Zandschulp and Sweeny spring the biggest upsets of the US Open's second round",
+      "body": "Karen Khachanov beat third seed Felix Auger-Aliassime 6-7(5), 6-3, 6-2, 6-2, while Botic van de Zandschulp knocked out sixth seed Alex de Minaur 6-4, 7-5, 6-2 on a chaotic Thursday at Flushing Meadows. Dane Sweeny added to the carnage by eliminating 13th seed and two-time major semifinalist Lorenzo Musetti. On the women's side, Naomi Osaka beat Katerina Siniakova in three sets and Madison Keys saved five match points to see off Anna Bondar.",
+      "source_name": "Bleacher Report",
+      "source_url": "https://bleacherreport.com/articles/25495858-us-open-tennis-2026-results-winners-losers-and-highlights-thursdays-bracket"
+    }
+  ],
+  "india": [
+    {
+      "tag": "Breaking",
+      "headline": "288 Indians remain missing in Nepal as toll passes 1,250; India pledges reconstruction help",
+      "body": "Indians are the largest group of foreign nationals unaccounted for after the Nepal-China floods, with 288 still missing as Nepal's confirmed death toll crossed 1,250 dead and 4,200 missing overall this week. India's ambassador to Kathmandu, Naveen Srivastava, said New Delhi would respond positively if Nepal formally requests reconstruction aid, on top of tunnel-rescue teams, forensic DNA specialists and relief consignments already sent. Among those still missing is Infosys Public Services chief executive Laxminath Gopisetty, who was travelling with a group of 11.",
+      "source_name": "The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/chilime/india-will-respond-positively-if-nepal-requests-reconstruction-aid-envoy-naveen-srivastava-amid-flood-relief-ops"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Nepal asks India, China and the US to pay compensation for the flash flood, calling it a climate liability",
+      "body": "Kathmandu is shifting from seeking aid to demanding compensation from India, China and the United States, framing the Rasuwa flash flood as a climate disaster caused by the world's biggest greenhouse-gas emitters. Nepal's government has thanked India and China for swift relief support but argues \"this is not a matter of charity; it is a matter of legal and moral liability.\" Talks on reconstruction and future risk-reduction are expected once the immediate rescue phase ends.",
+      "source_name": "ThePrint",
+      "source_url": "https://theprint.in/diplomacy/not-charity-but-moral-liability-nepal-seeks-compensation-from-china-us-india-for-rasuwa-flash-flood/3031006/"
+    },
+    {
+      "tag": "Geopolitics",
+      "headline": "Belgian PM Bart De Wever holds talks with Modi on diamonds, defence and the EU trade deal",
+      "body": "De Wever arrived in New Delhi on 2 September for a three-day visit, the first by a Belgian prime minister in two decades, accompanied by Defence and Foreign Trade Minister Theo Francken and a business delegation. Talks with Modi on 3 September covered deepening the diamond trade, clean energy, maritime and defence cooperation, and ways to leverage the India-EU free trade agreement. De Wever was due to travel on to Mumbai to meet stakeholders in diamonds, ports and logistics.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/economy/news/belgian-pm-s-india-visit-to-focus-on-diamonds-defence-maritime-ties-126090201382_1.html"
+    },
+    {
+      "tag": "Defence",
+      "headline": "Shakti Sharma becomes the first woman non-medical Air Vice Marshal in the Indian Air Force",
+      "body": "Sharma, commissioned into the IAF's Education Branch in 1994, assumed charge as Assistant Chief of the Air Staff (Education) at Air Headquarters on 1 September, becoming the first woman officer outside the medical stream to reach Air Vice Marshal rank. Over three decades she has held postings at training establishments, field stations and command headquarters, and was the first woman to command a Sainik School. The defence ministry called her elevation a landmark for women officers in the armed forces.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/india-news/meet-shakti-sharma-first-woman-non-medical-air-vice-marshal-in-iaf-126090200247_1.html"
+    },
+    {
+      "tag": "Science",
+      "headline": "ISRO successfully launches EOS-05, India's first imaging satellite from geostationary orbit",
+      "body": "The GSLV-F17 rocket lifted the 2,367 kg EOS-05 satellite off from Sriharikota's second launch pad at 2:55am on 4 September, India's 19th GSLV flight and a bounce-back after two consecutive failures of another launch vehicle. EOS-05 replaces GISAT-1A, lost in a 2021 launch failure, and will deliver near-real-time imagery at 30-minute intervals with the ability to revisit priority targets every five minutes. Students and space enthusiasts gathered at Sriharikota despite rain to watch the launch.",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/india-launches-rocket-in-boost-to-space-ambitions-after-failures"
+    },
+    {
+      "tag": "Sport",
+      "headline": "Mandhana's 124 powers India to a 137-run rout of Hong Kong, first team into Asia Cup semis",
+      "body": "Smriti Mandhana smashed 124 off 64 balls as India posted 193 for 5, then bowled out Hong Kong for just 56 with Deepti Sharma taking 3 for 9 to seal a 137-run win in Dubai. The result makes Harmanpreet Kaur's side the first team to confirm a semi-final berth at the Women's Asia Cup 2026. India, seven-time champions, next face Pakistan on 5 September.",
+      "source_name": "Outlook India",
+      "source_url": "https://www.outlookindia.com/sports/cricket/india-vs-hong-kong-live-score-womens-asia-cup-2026-highlights-updates-dubai"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Sensex falls for a fourth straight session as oil prices and bond yields weigh",
+      "body": "The Sensex closed 417 points, or 0.55%, lower at 76,152.86 on Thursday, while the Nifty fell 41 points to 23,873.45, extending losses to a fourth consecutive session. IT and auto stocks led the declines even as banking and realty shares outperformed. The spike in Brent crude toward $95 on the renewed US-Iran conflict continues to feed inflation and import-bill worries.",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-3-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-brent-crude-lumino-industries-share-market-126090300081_1.html"
+    },
+    {
+      "tag": "Economy",
+      "headline": "Economists warn India's oil import bill could rise $5-10 billion if Russian crude purchases are cut",
+      "body": "Russian oil, sold at a discount, has made up roughly a third of India's crude imports since 2024, currently running at 1-1.2 million barrels a day even as new US and European sanctions squeeze supply. Economist Santosh Mehrotra estimates a 50% cut to Russian purchases would add $5-10 billion to India's annual import bill, a risk sharpened by the US-Iran conflict pushing Brent toward $95. India's oil minister has said global prices would have been far higher without the discounted Russian barrels.",
+      "source_name": "OilPrice.com",
+      "source_url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Imports-Rise-Even-as-Russian-Supply-Tightens.html"
+    },
+    {
+      "tag": "Climate",
+      "headline": "IMD issues orange alert for West Bengal, Odisha and Chhattisgarh as heavy rain sweeps north India",
+      "body": "The weather office has flagged isolated extremely heavy rainfall for West Bengal, Odisha and Chhattisgarh, with heavy to very heavy spells also forecast for Uttar Pradesh, Uttarakhand, Bihar, Jharkhand, Telangana and Vidarbha through 4 September. Delhi-NCR is expecting widespread showers and thunderstorms as an active monsoon low drives rain across the north and east. Landslide risk remains elevated in the Himalayan states.",
+      "source_name": "India.com",
+      "source_url": "https://www.india.com/news/india/imd-weather-forecast-040926-september-4-chandigarh-delhi-east-uttar-pradesh-east-rajasthan-chhattisgarh-vidarbha-bihar-west-bengal-sikkim-punjab-haryana-rajasthan-8516010/"
+    },
+    {
+      "tag": "Business",
+      "headline": "Zerodha gets SEBI's in-principle nod for a merchant banking licence",
+      "body": "India's largest stockbroker cleared a key regulatory hurdle to enter investment banking, with the licence eventually letting Zerodha Corporate Advisors manage IPOs, follow-on offers, rights issues and other fundraising. The application was filed in April; full registration is still pending. It extends Zerodha's diversification beyond broking into asset management, lending and startup investing, at a time SEBI has raised the minimum net worth for new merchant bankers to Rs 50 crore from Rs 5 crore.",
+      "source_name": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/business/zerodha-gets-sebi-nod-for-merchant-banking-licence"
+    }
+  ]
+}
